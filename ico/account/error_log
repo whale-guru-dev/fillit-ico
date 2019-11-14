@@ -1,0 +1,697 @@
+[07-Dec-2017 16:14:33 Europe/Sofia] PHP Fatal error:  Call to undefined function Export_Database() in /home/fillitcr/public_html/account/RequestToMe.php on line 16
+[08-Dec-2017 16:34:50 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[08-Dec-2017 16:34:50 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[08-Dec-2017 16:35:00 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[08-Dec-2017 16:35:00 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[08-Dec-2017 20:18:19 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[12-Dec-2017 14:17:44 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[12-Dec-2017 14:17:44 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[12-Dec-2017 14:21:03 Europe/Sofia] PHP Notice:  Undefined variable: result in /home/fillitcr/public_html/account/addNow.php on line 330
+[12-Dec-2017 14:25:55 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[12-Dec-2017 14:25:55 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[12-Dec-2017 23:14:46 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[12-Dec-2017 23:14:46 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[13-Dec-2017 22:29:49 Europe/Sofia] PHP Notice:  Undefined variable: exchange in /home/fillitcr/public_html/account/addNow.php on line 301
+[13-Dec-2017 22:29:50 Europe/Sofia] PHP Notice:  Undefined index: amount in /home/fillitcr/public_html/account/addNow.php on line 318
+[13-Dec-2017 22:29:50 Europe/Sofia] PHP Notice:  Undefined index: address in /home/fillitcr/public_html/account/addNow.php on line 318
+[13-Dec-2017 22:29:50 Europe/Sofia] PHP Notice:  Undefined index: status_url in /home/fillitcr/public_html/account/addNow.php on line 318
+[13-Dec-2017 22:29:50 Europe/Sofia] PHP Notice:  Undefined index: confirms_needed in /home/fillitcr/public_html/account/addNow.php on line 330
+[14-Dec-2017 17:08:43 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[14-Dec-2017 17:08:43 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[14-Dec-2017 17:10:27 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[14-Dec-2017 17:10:27 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[15-Dec-2017 16:15:20 Europe/Sofia] PHP Notice:  Undefined variable: result in /home/fillitcr/public_html/account/addNow.php on line 330
+[15-Dec-2017 21:04:46 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[15-Dec-2017 21:04:46 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[16-Dec-2017 11:26:58 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[16-Dec-2017 14:32:19 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[18-Dec-2017 13:09:32 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[18-Dec-2017 14:28:22 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[18-Dec-2017 17:41:59 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[18-Dec-2017 19:42:36 Europe/Sofia] PHP Notice:  Undefined variable: result in /home/fillitcr/public_html/account/addNow.php on line 330
+[18-Dec-2017 21:40:50 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[19-Dec-2017 19:03:41 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[19-Dec-2017 19:03:58 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[19-Dec-2017 19:59:01 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[19-Dec-2017 22:58:39 Europe/Sofia] PHP Notice:  Undefined variable: gxx in /home/fillitcr/public_html/account/fac.php on line 36
+[19-Dec-2017 22:58:39 Europe/Sofia] PHP Warning:  Invalid argument supplied for foreach() in /home/fillitcr/public_html/account/fac.php on line 36
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 22:59:06 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:36 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 37
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 39
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 41
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 43
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Uninitialized string offset: 1 in /home/fillitcr/public_html/account/fac.php on line 45
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 48
+[19-Dec-2017 23:00:37 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/fac.php on line 49
+[20-Dec-2017 11:20:41 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 11:20:54 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 11:21:19 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 11:40:43 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 12:18:55 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 15:43:24 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 15:46:24 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 15:47:09 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 18:45:34 Europe/Sofia] PHP Notice:  Undefined variable: result in /home/fillitcr/public_html/account/addNow.php on line 330
+[20-Dec-2017 20:17:24 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 21:09:08 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 21:11:22 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 21:13:00 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 21:13:58 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 21:14:35 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 21:15:17 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 21:15:55 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 21:19:52 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 21:27:02 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 21:30:27 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 21:33:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 22:02:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 22:04:15 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 22:15:41 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 22:27:14 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 22:28:56 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 22:29:48 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 22:34:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 22:56:31 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[20-Dec-2017 23:00:32 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 00:47:35 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 01:18:52 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 01:21:10 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 02:48:13 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 02:50:59 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 08:57:18 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 09:05:12 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 09:06:14 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 09:21:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 09:35:28 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 09:45:42 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 09:47:42 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 10:39:35 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 12:47:45 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 14:32:31 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 14:53:23 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 14:54:09 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 14:55:11 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 15:25:10 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 15:27:58 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 16:51:14 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 16:51:42 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 16:51:55 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 16:54:22 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 16:55:40 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 16:57:20 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 16:57:35 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 16:58:31 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 16:59:17 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 16:59:58 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 17:00:02 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 17:00:05 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 17:00:12 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 17:08:54 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 17:14:23 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 17:50:45 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 17:50:50 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 17:51:05 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 17:51:12 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 18:07:18 Europe/Sofia] PHP Notice:  Undefined variable: uid in /home/fillitcr/public_html/account/Register.php on line 116
+[21-Dec-2017 18:07:18 Europe/Sofia] PHP Notice:  Undefined variable: uid in /home/fillitcr/public_html/account/Register.php on line 121
+[21-Dec-2017 18:09:21 Europe/Sofia] PHP Notice:  Undefined variable: uid in /home/fillitcr/public_html/account/Register.php on line 121
+[21-Dec-2017 18:16:49 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 19:07:57 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 19:15:41 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 20:45:57 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 20:50:59 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 21:06:07 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 21:18:41 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 21:18:46 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 21:19:01 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 21:19:02 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 21:23:51 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 21:41:37 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 21:42:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[21-Dec-2017 21:45:38 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[22-Dec-2017 05:53:37 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[22-Dec-2017 08:17:56 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[22-Dec-2017 08:59:19 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[22-Dec-2017 09:21:49 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[22-Dec-2017 09:52:05 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[22-Dec-2017 12:38:58 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/fillitcr/public_html/account/fac.php on line 39
+[22-Dec-2017 14:01:19 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[22-Dec-2017 14:01:28 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[22-Dec-2017 14:35:18 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[22-Dec-2017 15:20:43 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[22-Dec-2017 15:51:08 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[22-Dec-2017 15:51:13 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[22-Dec-2017 15:53:58 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[22-Dec-2017 17:18:30 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[22-Dec-2017 18:00:36 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[22-Dec-2017 18:05:35 Europe/Sofia] PHP Notice:  Undefined variable: exchange in /home/fillitcr/public_html/account/addNow.php on line 340
+[22-Dec-2017 18:05:36 Europe/Sofia] PHP Notice:  Undefined index: amount in /home/fillitcr/public_html/account/addNow.php on line 357
+[22-Dec-2017 18:05:36 Europe/Sofia] PHP Notice:  Undefined index: address in /home/fillitcr/public_html/account/addNow.php on line 357
+[22-Dec-2017 18:05:36 Europe/Sofia] PHP Notice:  Undefined index: status_url in /home/fillitcr/public_html/account/addNow.php on line 357
+[22-Dec-2017 18:05:36 Europe/Sofia] PHP Notice:  Undefined index: confirms_needed in /home/fillitcr/public_html/account/addNow.php on line 369
+[22-Dec-2017 18:09:56 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/fillitcr/public_html/account/Activity.php on line 286
+[22-Dec-2017 18:32:50 Europe/Sofia] PHP Notice:  Undefined index: id in /home/fillitcr/public_html/account/Referral.php on line 58
+[22-Dec-2017 18:33:10 Europe/Sofia] PHP Notice:  Undefined index: id in /home/fillitcr/public_html/account/Referral.php on line 58
+[22-Dec-2017 18:33:13 Europe/Sofia] PHP Notice:  Undefined index: id in /home/fillitcr/public_html/account/Referral.php on line 58
+[22-Dec-2017 18:36:13 Europe/Sofia] PHP Notice:  Undefined offset: 0 in /home/fillitcr/public_html/account/Referral.php on line 15
+[22-Dec-2017 18:36:13 Europe/Sofia] PHP Notice:  Undefined offset: 0 in /home/fillitcr/public_html/account/Referral.php on line 37
+[22-Dec-2017 18:36:13 Europe/Sofia] PHP Notice:  Undefined offset: 0 in /home/fillitcr/public_html/account/Referral.php on line 41
+[27-Dec-2017 04:44:01 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/filliteu/public_html/ico/function.php:7) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 04:44:01 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:7) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 04:44:01 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 04:44:01 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 04:44:20 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/filliteu/public_html/ico/function.php:7) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 04:44:20 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:7) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 04:44:20 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 04:44:20 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 04:47:07 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/filliteu/public_html/ico/function.php:7) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 04:47:07 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:7) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 04:47:07 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 04:47:07 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 04:56:17 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:7) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 04:56:17 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 04:56:17 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:02:03 Europe/Sofia] PHP Notice:  Use of undefined constant eixt - assumed 'eixt' in /home/filliteu/public_html/ico/function.php on line 3
+[27-Dec-2017 05:02:03 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:3) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:02:03 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:02:03 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:02:25 Europe/Sofia] PHP Notice:  Use of undefined constant eixt - assumed 'eixt' in /home/filliteu/public_html/ico/function.php on line 3
+[27-Dec-2017 05:02:25 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:3) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:02:25 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:02:25 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:02:51 Europe/Sofia] PHP Notice:  Use of undefined constant eixt - assumed 'eixt' in /home/filliteu/public_html/ico/function.php on line 3
+[27-Dec-2017 05:02:51 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:3) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:02:51 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:02:51 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:03:03 Europe/Sofia] PHP Notice:  Use of undefined constant eixt - assumed 'eixt' in /home/filliteu/public_html/ico/function.php on line 3
+[27-Dec-2017 05:03:03 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:3) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:03:03 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:03:03 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:03:36 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:8) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:03:36 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:03:36 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:04:42 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/function.php on line 11
+[27-Dec-2017 05:05:48 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/function.php on line 11
+[27-Dec-2017 05:14:45 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:8) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:14:45 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:14:45 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:14:47 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:8) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:14:47 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:14:47 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:18:58 Europe/Sofia] PHP Fatal error:  Call to undefined function PDO() in /home/filliteu/public_html/ico/function.php on line 6
+[27-Dec-2017 05:19:04 Europe/Sofia] PHP Fatal error:  Call to undefined function PDO() in /home/filliteu/public_html/ico/function.php on line 6
+[27-Dec-2017 05:30:17 Europe/Sofia] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/filliteu/public_html/ico/function.php on line 7
+[27-Dec-2017 05:30:17 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:7) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:30:17 Europe/Sofia] PHP Fatal error:  Call to a member function query() on resource in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:30:42 Europe/Sofia] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/filliteu/public_html/ico/function.php on line 7
+[27-Dec-2017 05:30:42 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:7) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:30:42 Europe/Sofia] PHP Fatal error:  Call to a member function query() on resource in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:30:48 Europe/Sofia] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/filliteu/public_html/ico/function.php on line 7
+[27-Dec-2017 05:30:48 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:7) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:30:48 Europe/Sofia] PHP Fatal error:  Call to a member function query() on resource in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:31:01 Europe/Sofia] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/filliteu/public_html/ico/function.php on line 7
+[27-Dec-2017 05:31:01 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:7) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:31:01 Europe/Sofia] PHP Fatal error:  Call to a member function query() on resource in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:34:27 Europe/Sofia] PHP Fatal error:  Call to undefined function PDO() in /home/filliteu/public_html/ico/function.php on line 6
+[27-Dec-2017 05:34:35 Europe/Sofia] PHP Fatal error:  Call to undefined function PDO() in /home/filliteu/public_html/ico/function.php on line 6
+[27-Dec-2017 05:35:02 Europe/Sofia] PHP Fatal error:  Call to undefined function PDO() in /home/filliteu/public_html/ico/function.php on line 6
+[27-Dec-2017 05:35:08 Europe/Sofia] PHP Fatal error:  Call to undefined function PDO() in /home/filliteu/public_html/ico/function.php on line 6
+[27-Dec-2017 05:35:22 Europe/Sofia] PHP Fatal error:  Call to undefined function PDO() in /home/filliteu/public_html/ico/function.php on line 6
+[27-Dec-2017 05:35:26 Europe/Sofia] PHP Fatal error:  Call to undefined function PDO() in /home/filliteu/public_html/ico/function.php on line 6
+[27-Dec-2017 05:36:12 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:12) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:36:12 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:36:12 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:36:59 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:12) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:36:59 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:36:59 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:37:04 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:12) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:37:04 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:37:04 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:37:07 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:12) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:37:07 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:37:07 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:37:08 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:12) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:37:08 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:37:08 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:37:08 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:12) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:37:08 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:37:08 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:37:09 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:12) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:37:09 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:37:09 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:37:09 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:12) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:37:09 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:37:09 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:37:12 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:12) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:37:12 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:37:12 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:37:17 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/function.php:12) in /home/filliteu/public_html/ico/account/include-global.php on line 3
+[27-Dec-2017 05:37:17 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:37:17 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:40:28 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:40:28 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:41:05 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:41:05 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:41:10 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:41:10 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:41:27 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 05:41:27 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/account/include-global.php on line 4
+[27-Dec-2017 15:49:21 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[27-Dec-2017 15:49:21 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[27-Dec-2017 15:49:21 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[27-Dec-2017 19:23:01 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[28-Dec-2017 11:29:56 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[28-Dec-2017 13:15:58 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[28-Dec-2017 15:03:42 Europe/Sofia] PHP Notice:  Undefined index: sid in /home/filliteu/public_html/ico/account/include-navbar-user.php on line 8
+[28-Dec-2017 17:06:40 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filliteu/public_html/ico/account/cashlib.php:42) in /home/filliteu/public_html/ico/account/cashlib.php on line 81
+[28-Dec-2017 17:07:07 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filliteu/public_html/ico/account/cashlib.php:42) in /home/filliteu/public_html/ico/account/cashlib.php on line 81
+[28-Dec-2017 17:07:40 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filliteu/public_html/ico/account/cashlib.php:42) in /home/filliteu/public_html/ico/account/cashlib.php on line 81
+[28-Dec-2017 18:18:46 Europe/Sofia] PHP Notice:  Trying to get property of non-object in /home/filliteu/public_html/ico/account/cashlib.php on line 36
+[28-Dec-2017 18:18:46 Europe/Sofia] PHP Notice:  Trying to get property of non-object in /home/filliteu/public_html/ico/account/cashlib.php on line 40
+[28-Dec-2017 22:40:31 Europe/Sofia] PHP Notice:  Undefined index: sid in /home/filliteu/public_html/ico/account/include-navbar-user.php on line 8
+[29-Dec-2017 00:12:42 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 00:12:42 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 00:17:27 Europe/Sofia] PHP Notice:  Undefined index: sid in /home/filliteu/public_html/ico/account/include-navbar-user.php on line 8
+[29-Dec-2017 00:17:53 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 00:17:53 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 00:50:55 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 00:50:55 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 00:55:09 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 00:55:09 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 01:40:21 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 01:40:21 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 02:07:28 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 03:12:59 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 03:12:59 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 03:13:14 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 03:13:14 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 06:09:36 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 11:15:24 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 11:15:56 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 17:26:12 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/account/ajax.php on line 243
+[29-Dec-2017 17:26:14 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/account/ajax.php on line 243
+[29-Dec-2017 17:26:17 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/account/ajax.php on line 243
+[29-Dec-2017 17:26:22 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/account/ajax.php on line 243
+[29-Dec-2017 17:26:25 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/account/ajax.php on line 243
+[29-Dec-2017 20:22:53 Europe/Sofia] PHP Notice:  Undefined index: referred in /home/filliteu/public_html/ico/account/Register.php on line 238
+[29-Dec-2017 21:16:09 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 23:10:34 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/filliteu/public_html/ico/account/addNow.php on line 726
+[29-Dec-2017 23:22:43 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 23:23:41 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[29-Dec-2017 23:28:29 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/account/addNow.php on line 170
+[29-Dec-2017 23:29:43 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_reference in /home/filliteu/public_html/ico/account/addNow.php on line 249
+[29-Dec-2017 23:31:09 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 221
+[30-Dec-2017 12:11:58 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 225
+[30-Dec-2017 12:11:58 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 270
+[30-Dec-2017 12:20:38 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 225
+[30-Dec-2017 12:20:38 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 270
+[30-Dec-2017 15:11:11 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[30-Dec-2017 15:23:42 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[30-Dec-2017 15:23:42 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[30-Dec-2017 17:07:11 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[30-Dec-2017 17:07:16 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[30-Dec-2017 17:21:17 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[30-Dec-2017 17:54:12 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[30-Dec-2017 18:09:49 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[30-Dec-2017 21:37:50 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[31-Dec-2017 13:13:47 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 270
+[31-Dec-2017 15:17:55 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[31-Dec-2017 15:17:55 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[31-Dec-2017 17:29:01 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[31-Dec-2017 17:29:01 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[31-Dec-2017 17:29:01 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[31-Dec-2017 17:29:01 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[31-Dec-2017 19:13:26 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[31-Dec-2017 23:05:07 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[01-Jan-2018 05:51:44 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[01-Jan-2018 05:52:17 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[01-Jan-2018 21:02:33 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 270
+[01-Jan-2018 23:46:43 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[01-Jan-2018 23:46:43 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[01-Jan-2018 23:46:46 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[01-Jan-2018 23:46:46 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[01-Jan-2018 23:47:02 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[01-Jan-2018 23:47:02 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[01-Jan-2018 23:47:04 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[01-Jan-2018 23:47:04 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[01-Jan-2018 23:47:53 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[01-Jan-2018 23:47:53 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 09:17:34 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 270
+[02-Jan-2018 11:20:58 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 11:20:58 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 11:28:33 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 11:28:33 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 11:35:15 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 11:45:15 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 11:45:15 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 11:46:23 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 11:46:23 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 12:59:19 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 12:59:24 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 13:25:07 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 14:14:59 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 15:23:20 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 15:23:20 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 15:23:55 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 15:23:55 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 17:13:40 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 17:45:38 Europe/Sofia] PHP Notice:  Undefined index: sid in /home/filliteu/public_html/ico/account/include-navbar-user.php on line 8
+[02-Jan-2018 18:26:12 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 18:37:48 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 18:37:48 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 18:37:48 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 18:37:48 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 18:43:53 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 18:43:53 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 18:47:30 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 19:13:57 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 19:14:05 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 20:20:39 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 20:37:05 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 20:56:23 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 20:56:23 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 21:25:07 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 21:25:07 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 21:25:07 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 21:43:05 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 21:43:05 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 22:57:48 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 22:57:48 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[02-Jan-2018 23:16:49 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 00:03:53 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 10:50:07 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 10:52:09 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 10:52:09 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 10:52:09 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 10:52:09 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 12:54:11 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 12:54:11 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 12:54:22 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 12:54:22 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 12:54:25 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 12:54:25 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 12:59:11 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 12:59:11 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 13:34:58 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 13:36:57 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 13:36:57 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 13:36:59 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 13:36:59 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 15:07:20 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 16:30:08 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 16:30:08 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 19:29:53 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 19:29:53 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 20:23:53 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 20:24:22 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 22:54:40 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 22:54:40 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 22:54:40 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 22:54:40 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 23:54:30 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[03-Jan-2018 23:54:40 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 00:09:42 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 270
+[04-Jan-2018 10:05:15 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 10:28:37 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 11:17:41 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 11:36:40 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 11:56:29 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 270
+[04-Jan-2018 12:57:29 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 12:58:07 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 13:12:46 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 13:12:46 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 13:12:46 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 13:12:46 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 14:05:31 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 14:22:52 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 14:22:52 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 14:22:52 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 14:22:56 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 14:22:56 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 14:22:56 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 15:18:02 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 15:18:48 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 16:57:07 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 19:49:09 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 19:50:48 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 20:11:35 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 23:40:12 Europe/Sofia] PHP Notice:  Undefined index: sid in /home/filliteu/public_html/ico/account/include-navbar-user.php on line 8
+[04-Jan-2018 23:44:55 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[04-Jan-2018 23:45:24 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[05-Jan-2018 11:54:44 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[05-Jan-2018 11:54:44 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[05-Jan-2018 11:54:44 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[05-Jan-2018 11:57:29 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[05-Jan-2018 11:57:29 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[05-Jan-2018 11:57:29 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[05-Jan-2018 11:57:29 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[05-Jan-2018 13:58:09 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[05-Jan-2018 13:58:09 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[05-Jan-2018 14:07:47 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[05-Jan-2018 14:07:47 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[05-Jan-2018 14:41:53 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[05-Jan-2018 14:41:53 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[05-Jan-2018 17:24:33 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[05-Jan-2018 18:58:36 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[06-Jan-2018 09:06:14 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[06-Jan-2018 17:49:21 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[06-Jan-2018 18:39:14 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[06-Jan-2018 20:43:39 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[06-Jan-2018 20:51:25 Europe/Sofia] PHP Notice:  Undefined index: sid in /home/filliteu/public_html/ico/account/include-navbar-user.php on line 8
+[06-Jan-2018 21:57:46 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[06-Jan-2018 22:48:26 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[06-Jan-2018 22:48:26 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[07-Jan-2018 01:10:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[07-Jan-2018 01:10:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[07-Jan-2018 01:10:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[07-Jan-2018 01:10:34 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[07-Jan-2018 16:51:59 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[07-Jan-2018 16:52:13 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[07-Jan-2018 18:04:16 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[07-Jan-2018 18:05:14 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[07-Jan-2018 19:56:32 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[07-Jan-2018 19:56:32 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[08-Jan-2018 06:27:32 Europe/Sofia] PHP Notice:  Undefined variable: result in /home/filliteu/public_html/ico/account/addNow.php on line 572
+[08-Jan-2018 09:02:18 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[08-Jan-2018 12:22:07 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[08-Jan-2018 16:58:19 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[08-Jan-2018 16:58:52 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[08-Jan-2018 19:05:04 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 270
+[08-Jan-2018 19:41:04 Europe/Sofia] PHP Warning:  file_get_contents(https://api.infobip.com/api/v3/sendsms/plain?user=Vissarion1&amp;password=V!ronas4711&amp;sender=FILLIT&amp;SMSText=You+are+successfully+registered+to+Fillitcrowd.&amp;GSM=undefined0030 6945440514&amp;type=longSMS): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad request
+ in /home/filliteu/public_html/ico/function.php on line 175
+[08-Jan-2018 19:41:04 Europe/Sofia] PHP Warning:  file_get_contents(https://api.infobip.com/api/v3/sendsms/plain?user=Vissarion1&amp;password=V!ronas4711&amp;sender=FILLIT&amp;SMSText=Your+Fillitcrowd+Verification+Code+is+442404.+Please+Enter+To+Verify.&amp;GSM=undefined0030 6945440514&amp;type=longSMS): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad request
+ in /home/filliteu/public_html/ico/function.php on line 187
+[08-Jan-2018 19:41:43 Europe/Sofia] PHP Warning:  file_get_contents(https://api.infobip.com/api/v3/sendsms/plain?user=Vissarion1&amp;password=V!ronas4711&amp;sender=FILLIT&amp;SMSText=Your+Fillitcrowd+Verification+Code+is+985014.+Please+Enter+To+Verify.&amp;GSM=undefined0030 6945440514&amp;type=longSMS): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad request
+ in /home/filliteu/public_html/ico/function.php on line 187
+[08-Jan-2018 20:41:03 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[08-Jan-2018 20:41:03 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[08-Jan-2018 20:41:03 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[08-Jan-2018 20:41:03 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[08-Jan-2018 23:13:04 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[09-Jan-2018 07:40:17 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[09-Jan-2018 10:33:02 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[09-Jan-2018 10:33:59 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 286
+[09-Jan-2018 10:45:56 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 10:46:19 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 10:47:04 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 10:47:05 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 10:48:00 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 12:03:17 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 12:21:28 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 12:21:28 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 13:40:03 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 14:10:19 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 14:50:54 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 14:50:54 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 14:52:14 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 16:49:20 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 16:49:20 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 16:49:20 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 16:49:20 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 17:43:30 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 18:04:31 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 18:09:57 Europe/Sofia] PHP Notice:  Undefined variable: result in /home/filliteu/public_html/ico/account/addNow.php on line 572
+[09-Jan-2018 18:52:44 Europe/Sofia] PHP Notice:  Undefined variable: result in /home/filliteu/public_html/ico/account/addNow.php on line 572
+[09-Jan-2018 21:57:17 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 21:57:47 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[09-Jan-2018 23:36:26 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[10-Jan-2018 09:31:38 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 270
+[10-Jan-2018 09:32:32 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 270
+[10-Jan-2018 09:33:30 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 270
+[10-Jan-2018 09:36:15 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 270
+[10-Jan-2018 09:53:24 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[10-Jan-2018 10:11:32 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[10-Jan-2018 10:20:12 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 270
+[10-Jan-2018 10:31:00 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 270
+[10-Jan-2018 10:42:17 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 270
+[10-Jan-2018 11:02:43 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 270
+[10-Jan-2018 12:04:47 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 270
+[10-Jan-2018 12:27:27 Europe/Sofia] PHP Notice:  Undefined index: sid in /home/filliteu/public_html/ico/account/include-navbar-user.php on line 8
+[10-Jan-2018 12:28:28 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[10-Jan-2018 13:12:29 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[10-Jan-2018 13:12:29 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[10-Jan-2018 13:48:48 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[10-Jan-2018 14:16:16 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[10-Jan-2018 14:38:39 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[10-Jan-2018 14:43:11 Europe/Sofia] PHP Notice:  Undefined variable: coins in /home/filliteu/public_html/ico/account/Activity.php on line 287
+[10-Jan-2018 15:29:28 Europe/Sofia] PHP Notice:  Undefined property: stdClass::$transaction_status in /home/filliteu/public_html/ico/account/addNow.php on line 271

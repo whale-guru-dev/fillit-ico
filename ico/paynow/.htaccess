@@ -1,0 +1,12 @@
+RewriteEngine On    # Turn on the rewriting engine
+   
+   
+   
+   
+   RewriteRule ^signin/?$              login.php
+   
+   
+   RewriteRule ^pay/?$               pay.php
+   
+   
+   

@@ -1,0 +1,46 @@
+RewriteEngine On    # Turn on the rewriting engine
+
+RewriteRule    ^login/?$    index.php    [NC,L]   
+RewriteRule    ^Register/?$    Register.php    [NC,L]   
+RewriteRule    ^signout/?$    signout.php    [NC,L]   
+
+RewriteRule    ^ForgotPassword/?$    forgotpass.php    [NC,L]   
+RewriteRule    ^ResetPassword/([A-Za-z0-9-]+)/?$    ResetPassword.php?code=$1    [NC,L]   
+
+RewriteRule    ^checkpoint/?$    ip.php    [NC,L]   
+RewriteRule    ^Dashboard/?$    home.php    [NC,L]   
+RewriteRule    ^ChangePassword/?$    changepass.php    [NC,L]   
+RewriteRule    ^Profile/?$    Profile.php    [NC,L]   
+
+RewriteRule    ^Activity/?$    Activity.php    [NC,L]   
+RewriteRule    ^Activity/([A-Za-z0-9-]+)/?$    Activity.php?page=$1    [NC,L]   
+RewriteRule    ^SendMoney/?$    SendMoney.php    [NC,L]   
+RewriteRule    ^Preview/?$    Preview.php    [NC,L]   
+RewriteRule    ^Sent/?$    Sent.php    [NC,L]   
+RewriteRule    ^RequestMoney/?$    RequestMoney.php    [NC,L]
+RewriteRule    ^KYC/?$    Kyc.php    [NC,L]
+RewriteRule    ^RequestToMe/?$    RequestToMe.php    [NC,L]   
+RewriteRule    ^RequestDetails/([A-Za-z0-9-]+)/?$    RequestDetails.php?id=$1    [NC,L]   
+
+RewriteRule    ^Refund/([A-Za-z0-9-]+)/?$    Refund.php?id=$1    [NC,L] 
+
+RewriteRule    ^AddMoney/?$    addmoney.php    [NC,L]   
+RewriteRule    ^DepositPreview/?$    addmoneyPreview.php    [NC,L]   
+RewriteRule    ^DepositNow/?$    addNow.php    [NC,L]   
+RewriteRule    ^AddMoneyLog/?$    AddMoneyLog.php    [NC,L]   
+RewriteRule    ^AddMoneyLog/([A-Za-z0-9-]+)/?$    AddMoneyLog.php?page=$1    [NC,L]  
+
+RewriteRule    ^WithdrawMoney/?$    withrawmoney.php    [NC,L]   
+RewriteRule    ^WithdrawPreview/?$    WithdrawPreview.php    [NC,L]   
+RewriteRule    ^WithdrawFinal/?$    WithdrawFinal.php    [NC,L]   
+RewriteRule    ^WithdrawLog/?$    WithdrawLog.php    [NC,L]   
+RewriteRule    ^WithdrawLog/([A-Za-z0-9-]+)/?$    WithdrawLog.php?page=$1    [NC,L]   
+RewriteRule    ^Referral/?$    Referral.php    [NC,L]
+RewriteRule    ^API/?$    API.php    [NC,L]   
+
+RewriteRule    ^VerifyMobile/?$    VerifyMobile.php    [NC,L]   
+RewriteRule    ^VerifyEmail/?$    VerifyEmail.php    [NC,L]
+
+RewriteRule    ^ExchangeRates/?$    ExchangeRates.php    [NC,L]
+
+RewriteRule    ^cashlibapi/?$    cashlib.php    [NC,L]

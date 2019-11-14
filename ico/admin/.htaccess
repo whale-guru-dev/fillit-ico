@@ -1,0 +1,110 @@
+RewriteEngine On    # Turn on the rewriting engine
+
+RewriteRule    ^login/?$    index.php    [NC,L]    
+RewriteRule    ^signout/?$    signout.php    [NC,L]   
+RewriteRule    ^ForgotPassword/?$    forgetpass.php    [NC,L]   
+
+RewriteRule    ^Dashboard/?$    home.php    [NC,L]   
+RewriteRule    ^ChangePassword/?$    changepassword.php    [NC,L]   
+RewriteRule    ^Profile/?$    Profile.php    [NC,L]   
+
+RewriteRule    ^GeneralSetting?$    setgeneral.php    [NC,L]   
+RewriteRule    ^EmailSetting?$    setemail.php    [NC,L]   
+RewriteRule    ^SMSSetting?$    setsms.php    [NC,L]   
+
+RewriteRule    ^WireRequests?$    WireReq.php    [NC,L]
+RewriteRule    ^EditWire/([0-9-]+)/?$    editwire.php?id=$1    [NC,L]
+RewriteRule    ^AddWire/?$    addwire.php    [NC,L]
+RewriteRule    ^KYC/?$    KycList.php    [NC,L]
+RewriteRule    ^SMStoUser/([0-9-]+)/?$    SMStouser.php?id=$1    [NC,L]
+RewriteRule    ^EMAILtoUser/([0-9-]+)/?$    EMAILtouser.php?id=$1    [NC,L]
+
+
+RewriteRule    ^LogoSetting/?$    setlogo.php    [NC,L]   
+RewriteRule    ^SliderSetting/?$    setslider.php    [NC,L]   
+RewriteRule    ^PaymentFromSetting/?$    setpaymetfrom.php    [NC,L]   
+RewriteRule    ^StatsSetting/?$    setstats.php    [NC,L]   
+RewriteRule    ^SocialSetting/?$    setsocial.php    [NC,L]   
+RewriteRule    ^ContactSetting/?$    setcontact.php    [NC,L]   
+RewriteRule    ^HomeService/?$    setservice.php    [NC,L]   
+RewriteRule    ^HomeServiceImage/?$    setserviceimg.php    [NC,L]   
+RewriteRule    ^HomeText/([A-Za-z0-9-]+)/?$    sethometxt.php?id=$1    [NC,L]   
+
+
+RewriteRule    ^Packege?$    Packege.php    [NC,L]   
+RewriteRule    ^EditPackege/([0-9-]+)/?$    EditPackege.php?id=$1    [NC,L] 
+RewriteRule    ^AddPackege/?$    AddPackege.php    [NC,L]   
+
+RewriteRule    ^Staffs/?$    Staffs.php    [NC,L]
+
+
+RewriteRule    ^WithdrawMethod/?$    WithdrawMethod.php    [NC,L]   
+RewriteRule    ^DepositMethod/?$    DepositMethod.php    [NC,L]
+RewriteRule    ^FillitPack/?$    FillitPack.php    [NC,L]
+RewriteRule    ^EditFillitPack/([A-Za-z0-9-]+)/?$    EditFillitP.php?id=$1    [NC,L]
+
+
+RewriteRule    ^AllUsers/?$    user-all.php    [NC,L]
+RewriteRule    ^AllUsers/([A-Za-z0-9-]+)/?$    user-all.php?page=$1    [NC,L]   
+
+RewriteRule    ^BannedUsers/?$    user-banned.php    [NC,L]
+RewriteRule    ^BannedUsers/([A-Za-z0-9-]+)/?$    user-banned.php?page=$1    [NC,L]   
+
+RewriteRule    ^ApiPermittedUsers/?$    user-api.php    [NC,L]
+RewriteRule    ^ApiPermittedUsers/([A-Za-z0-9-]+)/?$    user-api.php?page=$1    [NC,L]   
+
+RewriteRule    ^VerifiedUsers/?$    user-verified.php    [NC,L]
+RewriteRule    ^VerifiedUsers/([A-Za-z0-9-]+)/?$    user-verified.php?page=$1    [NC,L]   
+
+RewriteRule    ^MobileUnverifiedUsers/?$    user-mv.php    [NC,L]
+RewriteRule    ^MobileUnverifiedUsers/([A-Za-z0-9-]+)/?$    user-mv.php?page=$1    [NC,L]   
+
+RewriteRule    ^EmailUnverifiedUsers/?$    user-ev.php    [NC,L]
+RewriteRule    ^EmailUnverifiedUsers/([A-Za-z0-9-]+)/?$    user-ev.php?page=$1    [NC,L]   
+
+
+RewriteRule    ^AdminGeneratedFund/?$    fund-generated.php    [NC,L]
+RewriteRule    ^AdminGeneratedFund/([A-Za-z0-9-]+)/?$    fund-generated.php?page=$1    [NC,L]   
+
+RewriteRule    ^Invested/?$    invested.php    [NC,L]
+
+
+RewriteRule    ^UserDepositedFund/?$    fund-deposited.php    [NC,L]
+RewriteRule    ^UserDepositedFund/([A-Za-z0-9-]+)/?$    fund-deposited.php?page=$1    [NC,L]   
+
+
+RewriteRule    ^Transactions/?$    Transactions.php    [NC,L]
+RewriteRule    ^Transactions/([A-Za-z0-9-]+)/?$    Transactions.php?page=$1    [NC,L]   
+
+
+
+RewriteRule    ^WithdrawAll/?$    wd-all.php    [NC,L]
+RewriteRule    ^WithdrawAll/([A-Za-z0-9-]+)/?$    wd-all.php?page=$1    [NC,L]   
+
+
+RewriteRule    ^WithdrawSuccess/?$    wd-s.php    [NC,L]
+RewriteRule    ^WithdrawSuccess/([A-Za-z0-9-]+)/?$    wd-s.php?page=$1    [NC,L]   
+
+
+RewriteRule    ^WithdrawPending/?$    wd-p.php    [NC,L]
+RewriteRule    ^WithdrawPending/([A-Za-z0-9-]+)/?$    wd-p.php?page=$1    [NC,L]   
+
+
+RewriteRule    ^WithdrawRefunded/?$    wd-r.php    [NC,L]
+RewriteRule    ^WithdrawRefunded/([A-Za-z0-9-]+)/?$    wd-r.php?page=$1    [NC,L]   
+
+
+
+RewriteRule    ^WithdrawDetails/([A-Za-z0-9-]+)/?$    wd-details.php?id=$1    [NC,L]   
+RewriteRule    ^UserDetails/([A-Za-z0-9-]+)/?$    user-details.php?id=$1    [NC,L]   
+
+
+
+RewriteRule    ^UsersTrx/([A-Za-z0-9-]+)/?$    user-trx.php?id=$1    [NC,L]   
+RewriteRule    ^UsersDeposit/([A-Za-z0-9-]+)/?$    user-deposit.php?id=$1    [NC,L]
+RewriteRule    ^UsersReferral/([A-Za-z0-9-]+)/?$    user-referrals.php?id=$1    [NC,L]
+
+RewriteRule    ^UsersWithdraw/([A-Za-z0-9-]+)/?$    user-wd.php?id=$1    [NC,L]   
+RewriteRule    ^UsersLogins/([A-Za-z0-9-]+)/?$    user-logins.php?id=$1    [NC,L]   
+RewriteRule    ^BalanceUser/([A-Za-z0-9-]+)/?$    user-balance.php?id=$1    [NC,L]   
+RewriteRule    ^EmailToUser/([A-Za-z0-9-]+)/?$    user-email.php?id=$1    [NC,L]   

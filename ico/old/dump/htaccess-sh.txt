@@ -1,0 +1,10 @@
+Options -Indexes
+
+#<IfModule mod_fcgid.c>
+#	AddHandler fcgid-script .php
+#	FcgidWrapper /home/[CPANEL_USER_NAME]/php5.fcgi .php
+#</IfModule>
+
+#<IfModule mod_env.c>
+#        SetEnv PHPRC /home/CPANEL_NAME/php.ini
+#</IfModule>

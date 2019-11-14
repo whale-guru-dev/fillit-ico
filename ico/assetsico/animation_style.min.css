@@ -1,0 +1,654 @@
+@-webkit-keyframes move-loader-bg {
+    0%, to {
+        opacity: 0
+    }
+    50% {
+        opacity: 1
+    }
+}
+
+@-moz-keyframes move-loader-bg {
+    0%, to {
+        opacity: 0
+    }
+    50% {
+        opacity: 1
+    }
+}
+
+@-o-keyframes move-loader-bg {
+    0%, to {
+        opacity: 0
+    }
+    50% {
+        opacity: 1
+    }
+}
+
+@keyframes move-loader-bg {
+    0%, to {
+        opacity: 0
+    }
+    50% {
+        opacity: 1
+    }
+}
+
+@-webkit-keyframes move-loader-spin {
+    0% {
+        transform: rotate(0deg)
+    }
+    to {
+        transform: rotate(360deg)
+    }
+}
+
+@-moz-keyframes move-loader-spin {
+    0% {
+        transform: rotate(0deg)
+    }
+    to {
+        transform: rotate(360deg)
+    }
+}
+
+@-o-keyframes move-loader-spin {
+    0% {
+        transform: rotate(0deg)
+    }
+    to {
+        transform: rotate(360deg)
+    }
+}
+
+@keyframes move-loader-spin {
+    0% {
+        transform: rotate(0deg)
+    }
+    to {
+        transform: rotate(360deg)
+    }
+}
+
+@-webkit-keyframes move-loader {
+    0% {
+        opacity: 1
+    }
+    to {
+        opacity: 0
+    }
+}
+
+@-moz-keyframes move-loader {
+    0% {
+        opacity: 1
+    }
+    to {
+        opacity: 0
+    }
+}
+
+@-o-keyframes move-loader {
+    0% {
+        opacity: 1
+    }
+    to {
+        opacity: 0
+    }
+}
+
+@keyframes move-loader {
+    0% {
+        opacity: 1
+    }
+    to {
+        opacity: 0
+    }
+}
+
+@-webkit-keyframes move-t2 {
+    0% {
+        margin-top: 30px;
+        opacity: 0
+    }
+    to {
+        margin-top: 24px;
+        opacity: 1
+    }
+}
+
+@-moz-keyframes move-t2 {
+    0% {
+        margin-top: 30px;
+        opacity: 0
+    }
+    to {
+        margin-top: 24px;
+        opacity: 1
+    }
+}
+
+@-o-keyframes move-t2 {
+    0% {
+        margin-top: 30px;
+        opacity: 0
+    }
+    to {
+        margin-top: 24px;
+        opacity: 1
+    }
+}
+
+@keyframes move-t2 {
+    0% {
+        margin-top: 30px;
+        opacity: 0
+    }
+    to {
+        margin-top: 24px;
+        opacity: 1
+    }
+}
+
+@-webkit-keyframes move-menu {
+    0% {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@-moz-keyframes move-menu {
+    0% {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@-o-keyframes move-menu {
+    0% {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes move-menu {
+    0% {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@-webkit-keyframes move-bottom {
+    0% {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@-moz-keyframes move-bottom {
+    0% {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@-o-keyframes move-bottom {
+    0% {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes move-bottom {
+    0% {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@-webkit-keyframes move-tp {
+    0%, 20% {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@-moz-keyframes move-tp {
+    0%, 20% {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@-o-keyframes move-tp {
+    0%, 20% {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes move-tp {
+    0%, 20% {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+audio, canvas, video {
+    display: inline-block;
+    *display: inline;
+    *zoom: 1
+}
+
+audio:not([controls]) {
+    display: none
+}
+
+[hidden] {
+    display: none
+}
+
+@font-face {
+    font-family: Dosis;
+    src: url(fonts/Dosis/Dosis-Regular.ttf)
+}
+
+@font-face {
+    font-family: Dosis;
+    src: url(fonts/Dosis/Dosis-Bold.ttf);
+    font-weight: 700
+}
+
+@font-face {
+    font-family: Dosis;
+    src: url(fonts/Dosis/Dosis-SemiBold.ttf);
+    font-weight: 600
+}
+
+@font-face {
+    font-family: Dosis;
+    src: url(fonts/Dosis/Dosis-Medium.ttf);
+    font-weight: 500
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(fonts/Roboto/Roboto-Regular.ttf)
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(fonts/Roboto/Roboto-Medium.ttf);
+    font-weight: 500
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(fonts/Roboto/Roboto-Bold.ttf);
+    font-weight: 700
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(fonts/Roboto/Roboto-Light.ttf);
+    font-weight: 300
+}
+
+.home, body {
+    position: relative;
+    width: 100%
+}
+
+body {
+    text-rendering: geometricPrecision;
+    background-color: #f5fcfc
+}
+
+.home {
+    display: block;
+    overflow: hidden;
+    height: 980px;
+    background-color: #113d5d;
+    background: #114a47;
+    background: -moz-linear-gradient(40deg, #114a47 0%, #113d5d 100%);
+    background: -webkit-linear-gradient(40deg, #114a47 0%, #113d5d 100%);
+    background: linear-gradient(40deg, #0bfff2 0%,#113d5d 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$color1', endColorstr='$color2', GradientType=1);
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: optimize-contrast;
+    -ms-interpolation-mode: nearest-neighbor
+}
+
+.home #loader, .home #loader:after, .home #loader:before, .home .slogan-wrapper {
+    display: block;
+    position: absolute;
+    top: 420px;
+    left: 50%;
+    width: 100px;
+    height: 100px
+}
+
+.home #loader:after, .home #loader:before {
+    content: "";
+    top: 0;
+    left: -50px;
+    background-image: url(../img/loader_bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-animation: move-loader-bg 3s infinite;
+    -moz-animation: move-loader-bg 3s infinite;
+    -o-animation: move-loader-bg 3s infinite;
+    animation: move-loader-bg 3s infinite
+}
+
+.home #loader:after {
+    background-image: url(../img/loader_spin.png);
+    -webkit-animation: move-loader-spin 3s infinite;
+    -moz-animation: move-loader-spin 3s infinite;
+    -o-animation: move-loader-spin 3s infinite;
+    animation: move-loader-spin 3s infinite
+}
+
+.home #loader.hidden {
+    opacity: 0;
+    -webkit-animation: move-loader 1s 1;
+    -moz-animation: move-loader 1s 1;
+    -o-animation: move-loader 1s 1;
+    animation: move-loader 1s 1
+}
+
+.home .slogan-wrapper {
+    top: 250px;
+    left: 0;
+    width: 100%;
+    height: 200px
+}
+
+.home #slogan.active .t2 {
+    opacity: 1;
+    -webkit-animation: move-t2 3s ease 1;
+    -moz-animation: move-t2 3s ease 1;
+    -o-animation: move-t2 3s ease 1;
+    animation: move-t2 3s ease 1
+}
+
+.home .bottom .button:before, .home .header-wrapper {
+    display: block;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    width: 100%;
+    height: 110px
+}
+
+.home .header {
+    position: relative;
+    width: 1680px;
+    height: 110px
+}
+
+.home .header #menu {
+    display: block;
+    position: absolute;
+    top: 25px;
+    right: 40px;
+    opacity: 0
+}
+
+.home .header #menu.active {
+    opacity: 1;
+    -webkit-animation: move-menu 3s ease 1;
+    -moz-animation: move-menu 3s ease 1;
+    -o-animation: move-menu 3s ease 1;
+    animation: move-menu 3s ease 1
+}
+
+.home .header, .home .header img {
+    display: block;
+    margin: auto
+}
+
+.home .header .logo {
+    position: absolute;
+    top: 0;
+    left: 20px;
+    width: 300px;
+    height: 110px
+}
+
+.home .background {
+    overflow: hidden;
+    left: 0;
+    top: 0;
+    height: 100%
+}
+
+.home .background canvas, .home .timeline canvas {
+    position: absolute;
+    display: block;
+    background-color: transparent
+}
+
+.home .background canvas {
+    overflow: hidden;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%
+}
+
+.home .background.noscale canvas {
+    width: auto;
+    height: auto
+}
+
+.home .background, .home .earth, .home .timeline {
+    display: block;
+    position: absolute;
+    width: 100%
+}
+
+.home .earth {
+    margin: auto;
+    background-image: url(../img/pic1.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    opacity: 1;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: optimize-contrast;
+    -ms-interpolation-mode: nearest-neighbor
+}
+
+.home #timel.active {
+    opacity: 1
+}
+
+.home .timeline {
+    height: 800px;
+    top: 310px;
+    left: 0;
+    overflow: hidden
+}
+
+.home .timeline canvas {
+    margin: auto
+}
+
+.home .bottom, .timeline .timeline-point {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 740px;
+    width: 100%;
+    height: 160px;
+    opacity: 0
+}
+
+.home .bottom .button {
+    cursor: pointer;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px
+}
+
+.home .bottom .button:before {
+    content: "";
+    background-color: #fff;
+    top: 4px;
+    left: 4px;
+    width: 502px;
+    height: 72px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    border-radius: 3px
+}
+
+.home .bottom .button, .home .bottom .button span {
+    display: block;
+    position: relative;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 80px;
+    text-align: center;
+    color: #00788a;
+    height: 80px;
+    width: 510px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, .2)
+}
+
+.home .bottom .icons {
+    display: block;
+    width: 500px;
+    height: 65px;
+    background-image: url(../img/bottom_ico.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin: auto
+}
+
+.home .bottom.active {
+    opacity: 1;
+    -webkit-animation: move-bottom 2s ease 1;
+    -moz-animation: move-bottom 2s ease 1;
+    -o-animation: move-bottom 2s ease 1;
+    animation: move-bottom 2s ease 1
+}
+
+.timeline .timeline-point {
+    width: 400px;
+    height: 10px;
+    top: 0;
+    background-color: none;
+    opacity: 1;
+    -webkit-animation: move-tp .5s ease 1;
+    -moz-animation: move-tp .5s ease 1;
+    -o-animation: move-tp .5s ease 1;
+    animation: move-tp .5s ease 1
+}
+
+.timeline .timeline-point .t1, .timeline .timeline-point .t2, .timeline .timeline-point .t3 {
+    width: auto;
+    max-width: 400px;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: Roboto;
+    text-align: left
+}
+
+.timeline .timeline-point .t1 {
+    color: #fff
+}
+
+.timeline .timeline-point .t2, .timeline .timeline-point .t3 {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px
+}
+
+.timeline .timeline-point .t3 {
+    color: #fff
+}
+
+.timeline .timeline-point .t1 {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 500
+}
+
+.timeline .timeline-point .t2 {
+    color: #00e4ff
+}
+
+.timeline .timeline-point .t3 a {
+    text-decoration: underline !important;
+    color: #fff !important
+}
+
+.timeline .timeline-point .v2 {
+    top: 22px
+}
+
+.timeline .timeline-point .area {
+    width: 240px;
+    height: 120px;
+    position: absolute;
+    top: -120px;
+    left: 0;
+    background-color: none
+}
+
+.timeline .timeline-point .point {
+    width: 60px;
+    height: 60px;
+    left: -30px;
+    top: -30px;
+    display: block;
+    background-color: transparent;
+    position: absolute;
+    opacity: 0
+}
+
+.notransition {
+    webkit-transition: none !important;
+    -moz-transition: none !important;
+    -o-transition: none !important;
+    transition: none !important
+}
+
+.hidden {
+    display: none
+}
+
+.timeline .timeline-point .t2 a:hover, .timeline .timeline-point .t3 a:hover {
+    text-decoration: none !important
+}

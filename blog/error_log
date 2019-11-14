@@ -1,0 +1,12 @@
+[30-Oct-2017 12:50:06 Europe/London] PHP Warning:  include(classes/user.php): failed to open stream: No such file or directory in /home/filliteu/public_html/includes/config.php on line 31
+[30-Oct-2017 12:50:06 Europe/London] PHP Warning:  include(): Failed opening 'classes/user.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/filliteu/public_html/includes/config.php on line 31
+[30-Oct-2017 12:50:06 Europe/London] PHP Warning:  include(classes/phpmailer/mail.php): failed to open stream: No such file or directory in /home/filliteu/public_html/includes/config.php on line 32
+[30-Oct-2017 12:50:06 Europe/London] PHP Warning:  include(): Failed opening 'classes/phpmailer/mail.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/filliteu/public_html/includes/config.php on line 32
+[30-Oct-2017 12:50:06 Europe/London] PHP Fatal error:  Class 'User' not found in /home/filliteu/public_html/includes/config.php on line 33
+[30-Oct-2017 14:51:12 Europe/Sofia] PHP Warning:  require_once(/includes/config.php): failed to open stream: No such file or directory in /home/filliteu/public_html/blog/add-post.php on line 2
+[30-Oct-2017 14:51:12 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required '/includes/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/filliteu/public_html/blog/add-post.php on line 2
+[30-Oct-2017 14:52:05 Europe/Sofia] PHP Warning:  require_once(/includes/config.php): failed to open stream: No such file or directory in /home/filliteu/public_html/blog/add-post.php on line 2
+[30-Oct-2017 14:52:05 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required '/includes/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/filliteu/public_html/blog/add-post.php on line 2
+[30-Oct-2017 15:01:16 Europe/Sofia] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/filliteu/public_html/blog/add-post.php on line 2
+[30-Oct-2017 15:01:16 Europe/Sofia] PHP Warning:  require_once(https:///includes/config.php): failed to open stream: no suitable wrapper could be found in /home/filliteu/public_html/blog/add-post.php on line 2
+[30-Oct-2017 15:01:16 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required 'https:///includes/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/filliteu/public_html/blog/add-post.php on line 2

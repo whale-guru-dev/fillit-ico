@@ -1,0 +1,234 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0276)https://helpdesk.worldcore.com/liveagent/scripts/generateWidget.php?v=4.56.14.9&t=1511054023&cwid=83b93681&ie=-1&pt=Worldcore%20ICO#https%3A%2F%2Fworldcore.com%2F%3Fgclid%3DCjwKCAiA6K_QBRA8EiwASvtjZVJYJiy7FXN4ODw_jmpjG7WrgpeQWIyqIv3YNGv7R29v2wuHmgyqCBoCPqwQAvD_BwE%26stage%3D1 -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <meta http-equiv="Cache-Control" content="no-cache">
+        <meta http-equiv="Pragma" content="no-cache">
+        <meta http-equiv="Expires" content="0">
+        <meta name="robots" content="none">
+        <meta name="viewport" content="width=device-width">
+        <title></title>
+                    <link href="./contactform.css" rel="stylesheet" type="text/css">
+                        	<style>
+            	.SendFile .Icon {background:url('/liveagent/themes/contact/modern/img/form-sprite.png?t=201212131002') no-repeat -96px -16px;}
+.SendFile.Uploading .Icon {background:url('/liveagent/themes/contact/modern/img/loading-small.gif') no-repeat;}
+.InputFileView .DiscardButton {background:url("/liveagent/themes/contact/modern/img/form-sprite.png?t=201212131002") no-repeat -97px -33px;}
+
+.ContactHeader {height:125px;}
+.ContactBody {top:125px;}
+
+.PopupPanelClose {background:url('/liveagent/themes/contact/modern/img/form-sprite.png?t=201212131002') no-repeat -144px -48px;}
+.PopupPanelClose:hover {background-position:-144px -80px;}
+
+.PopOutButton {background:url('/liveagent/themes/contact/modern/img/form-sprite.png?t=201212131002') no-repeat -112px 0px;}
+.PopOutButton:hover {background-position:-112px -16px;}
+
+  .CloseButton {background:url('data:image/svg+xml,%3Csvg%20version%3D%221.1%22%20id%3D%22Layer_1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20x%3D%220px%22%20y%3D%220px%22%20width%3D%2216px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2016%2016%22%20enable-background%3D%22new%200%200%2016%2016%22%20xml%3Aspace%3D%22preserve%22%3E%20%3Cpolygon%20points%3D%2216%2C2.528%2013.474%2C0%208%2C5.474%202.526%2C0%200%2C2.528%205.473%2C8%200%2C13.474%202.526%2C16%208%2C10.527%2013.474%2C16%2016%2C13.474%2010.526%2C8%20%22%2F%3E%20%3C%2Fsvg%3E') no-repeat; opacity:0.6; background-size:contain;}
+  .CloseButton:hover {opacity:0.9;}
+
+.ContentLoading {background:url('/liveagent/themes/contact/modern/img/loading.gif') no-repeat center center;}
+	
+.CheckBox {background:url('/liveagent/themes/contact/modern/img/la_checkbox.png') no-repeat -190px 3px;}
+	.CheckBox:hover {background-position:-142px -45px;}
+	.CheckBox-checked {background-position:-166px -21px;}
+	.CheckBox-checked:hover {background-position:-118px -69px;}
+	.CheckBox-focus, .CheckBox-focus:hover {background-position:-94px -93px;}
+		.CheckBox-focus.CheckBox-checked,
+		.CheckBox-focus.CheckBox-checked:hover {background-position:-70px -117px;}
+	.CheckBox.CheckBox-disabled {background-position:-46px -141px !important;}
+	.CheckBox-checked.CheckBox-disabled {background-position:-22px -165px !important;}
+
+    
+.AcceptIcon {background:url('/liveagent/themes/contact/modern/img/form-sprite.png?t=201212131002') no-repeat;}
+.AcceptsIconT {background-position:-115px -67px;}
+.AcceptsIconT-down {background-position:-93px -67px;}
+    
+.Loading-image {background: #eee url('/liveagent/themes/contact/modern/img/loading.gif') no-repeat fixed center center; }
+
+.Chat .buttonIcon {background:url('/liveagent/themes/contact/modern/img/form-sprite.png?t=201212131002') no-repeat -89px -50px;}
+.ImLeButton.FacebookButton {background:url('/liveagent/themes/contact/modern/img/form-sprite.png?t=201212131002') no-repeat -75px 0 transparent;}
+.ImLeButton-over.FacebookButton {background:url('/liveagent/themes/contact/modern/img/form-sprite.png?t=201212131002') no-repeat -75px 0 transparent;}body {font-family:"Lucida grande","Lucida Sans Unicode",Arial, Verdana;}
+input, textarea {font-family:Arial,Verdana,Helvetica,Geneva,sans-serif;}
+.SuggestionVotesBox .Status {font-family:Arial,Verdana;}.MainElement {background:#F6F6F6; color:#464646;}
+.MainElementMobile {background-color:#F6F6F6; color:#464646;}
+.ContactHeader {border-color:#F6F6F6; background-color:#F6F6F6; color:#464646; height:100px;}
+.ContactBody {border-color:#F6F6F6; background:#F6F6F6; color:#464646; top:100px;}
+.PhoneType.ReadyState .HeaderPanel,
+.PhoneType.DialingState .HeaderPanel,
+.PhoneType.InicializingState .HeaderPanel {border-color:#F6F6F6}
+.SuccessMessageBorder {background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjQ2MTQ2OTRDMEM0NDExRTFCOUI0ODY5NUQ5MTRCMjI0IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjQ2MTQ2OTREMEM0NDExRTFCOUI0ODY5NUQ5MTRCMjI0Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NDYxNDY5NEEwQzQ0MTFFMUI5QjQ4Njk1RDkxNEIyMjQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6NDYxNDY5NEIwQzQ0MTFFMUI5QjQ4Njk1RDkxNEIyMjQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6L+iwsAAAAD0lEQVR42mJgYGAwBggwAAA4ADSSvYwwAAAAAElFTkSuQmCC') repeat top left #EAEAEA;}
+.SuccessMessage {background:#EAEAEA; color:#000000;}
+.ContactFooter {border-color:#F6F6F6; background-color:#F6F6F6; color:#464646;}
+.ImLeButton {background:#FF7C22;}
+.ImLeButton.ButtonUnwrapped {background:none;}
+.buttonText {color:#FFFFFF;}
+.ImLeButton-over {background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjQ2MTQ2OTRDMEM0NDExRTFCOUI0ODY5NUQ5MTRCMjI0IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjQ2MTQ2OTREMEM0NDExRTFCOUI0ODY5NUQ5MTRCMjI0Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NDYxNDY5NEEwQzQ0MTFFMUI5QjQ4Njk1RDkxNEIyMjQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6NDYxNDY5NEIwQzQ0MTFFMUI5QjQ4Njk1RDkxNEIyMjQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6L+iwsAAAAD0lEQVR42mJgYGAwBggwAAA4ADSSvYwwAAAAAElFTkSuQmCC') repeat top left #FF7C22;}
+.ImLeButton-over.ButtonUnwrapped {background:none;}
+.Chat .buttonText {color:#FFFFFF;}
+.Call .buttonText {color:#FFFFFF;}
+.SuggestionsList a {background:url('/liveagent/themes/contact/modern/img/divider-horizontal.png') repeat-x left top;}
+.SuggestionBody .FormTitle {color:#464646;}
+.PopupContentWrapper {background:#F6F6F6; color:#464646;}
+.g-FormField2-Label.gwt-Label-mandatory {color:#464646;}
+        	</style>
+                                <script type="text/javascript">
+            
+var LiveAgentTrackerXD=function(){var interval_id,last_hash,cache_bust=1,window=this;var ieVersion=-1;if(navigator.appName=='Microsoft Internet Explorer'){var ua=navigator.userAgent;var re=new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");if(re.exec(ua)!=null){ieVersion=parseFloat(RegExp.$1);if(document.documentMode<8){ieVersion=7;}}}
+var regex=new RegExp("[\\?&]ie=([^&#]*)");var results=regex.exec(window.location.href);if(results!=null){ieVersion=results[1];}
+return{getIeVersion:function(){return ieVersion;},postMessage:function(args,target_url,target){if(!target_url){return;}
+if(typeof args==='string'){var message=args;}else{var message=args[0]+'(';for(var i=1;i<args.length;i++){var value=args[i];if(typeof value==='string'){value="'"+value.replace(/'/g,"\\'")+"'";}
+message+=(i>1?', ':'')+value;}
+message+=')';}
+target=target||parent;if(ieVersion!=7&&window['postMessage']){target['postMessage'](message,'*');}else if(target_url){target.location=target_url.replace(/#.*$/,'')+'#'+(+new Date)+(cache_bust++)+'&'+message;}},receiveMessage:function(instance){var callback=function(message){try{eval(instance+'.'+message.data+";");}catch(e){}};if(ieVersion!=7&&window['postMessage']){if(window['addEventListener']){window[callback?'addEventListener':'removeEventListener']('message',callback,!1);}else{window[callback?'attachEvent':'detachEvent']('onmessage',callback);}}else{interval_id&&clearInterval(interval_id);interval_id=null;if(callback){interval_id=setInterval(function(){var hash=document.location.hash;if(hash===last_hash){return;}
+re=/^#?\d+&/;if(re.test(hash)){callback({data:hash.replace(re,'')});document.location.hash='';}
+last_hash=document.location.hash;},100);}}}};}();
+        </script>       
+            
+        <script type="text/javascript">window["5ad54f98c00d428d55a36dd42ba38441"]="[[\"name\",\"value\"],[\"langCode\",\"en-US\"]]";window["6a65c572c20e1f6e5d85ad84ec2ad80c"]="[[\"name\",\"value\"],[\"provide\",\"BFC\"],[\"prefix\",\"\"],[\"chatWindowType\",\"E\"]]";window["0e8db77b70c6f74f850a639c4dda6925"]="[[\"formfieldid\",\"accountid\",\"formid\",\"code\",\"name\",\"rtype\",\"rstatus\",\"availablevalues\",\"rorder\",\"sectionid\"],[\"146\",\"default1\",\"button_83b93681_contactForm\",\"name\",\"Name\",\"T\",\"M\",\"\",\"0\",\"83b93681\"],[\"147\",\"default1\",\"button_83b93681_contactForm\",\"email\",\"Email\",\"T\",\"M\",\"\",\"1\",\"83b93681\"],[\"148\",\"default1\",\"button_83b93681_contactForm\",\"message\",\"Message\",\"M\",\"M\",\"\",\"2\",\"83b93681\"]]";</script> 
+    </head>
+    <body class="PositionBR">
+        <iframe src="javascript:&#39;&#39;" id="__gwt_historyFrame" style="width:0;height:0;border:0" src="./saved_resource.html"></iframe>
+         <div id="mainElement" class="MainElement InicializingState " style="width: 498px; height: 488px;">
+                <style>
+        
+          .Kb {display:none;}
+        
+    </style>
+    <script type="text/javascript">
+    
+        var inPage = 'N';
+        closeWindow = function() {
+            LiveAgentTrackerXD.postMessage(["closeOpenedWidget"], parent_url, parent);
+        }
+    
+    </script>
+    <div class="ContactHeader ">
+        <img src="./file(1).php" alt="Logo" title="Logo">
+    </div>
+<div class="ContactBody">
+    <div id="body" class="ContactForm">
+        <div id="formTitle" class="FormTitle">Welcome</div>
+        <div class="ContactFormBorder">        
+            <div id="formContent">
+                    <div id="146main" class="g-FormField2" style="">
+    <div id="146label" class="g-FormField2-Label g-FormField2-Label-mandatory" style="">
+        <label>Name</label>
+    </div>
+    <div class="g-FormField2-InputContainer">
+        <div id="146inputPanel" class="g-FormField2-InputPanel">
+            <div id="146container" class="TextBoxContainer"><input id="146input" aria-labelledby="146label" type="text" class="TextBox" name="name" value=""></div>
+        </div>
+        <div id="146description" class="gwt-Label g-FormField2-Description" style="display: none;"></div>
+        <div id="146errorIcon" class="gwt-Label g-FormField2-ErrorIcon" style="display: none;"></div>
+    </div>
+    <div class="clear"></div>
+</div>
+    <div id="147main" class="g-FormField2" style="">
+    <div id="147label" class="g-FormField2-Label g-FormField2-Label-mandatory" style="">
+        <label>Email</label>
+    </div>
+    <div class="g-FormField2-InputContainer">
+        <div id="147inputPanel" class="g-FormField2-InputPanel">
+            <div id="147container" class="TextBoxContainer"><input id="147input" aria-labelledby="147label" type="text" class="TextBox" name="email" value=""></div>
+        </div>
+        <div id="147description" class="gwt-Label g-FormField2-Description" style="display: none;"></div>
+        <div id="147errorIcon" class="gwt-Label g-FormField2-ErrorIcon" style="display: none;"></div>
+    </div>
+    <div class="clear"></div>
+</div>
+    <div id="148main" class="g-FormField2" style="">
+    <div id="148label" class="g-FormField2-Label g-FormField2-Label-mandatory" style="">
+        <label>Message</label>
+    </div>
+    <div class="g-FormField2-InputContainer">
+        <div id="148inputPanel" class="g-FormField2-InputPanel">
+            <div id="148container" class="MessageArea"><textarea id="148area" name="message"></textarea><div class="MessageFormFilesWrapper"><div id="148files" class="MessageFormFiles NoFiles"></div><div id="148attach" class="MessageFormAttach"></div></div></div>
+        </div>
+        <div id="148description" class="gwt-Label g-FormField2-Description" style="display: none;"></div>
+        <div id="148errorIcon" class="gwt-Label g-FormField2-ErrorIcon" style="display: none;"></div>
+    </div>
+    <div class="clear"></div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div>    
+<div id="contactFooter" class="ContactFooter ">
+    <div id="buttonsPanelWrap" class="ButtonsPanel">
+              	        <div id="sendmainButton" class="ImLeButton ImLeButtonMainOut ButtonUnwrapped Send" role="button"><div id="sendmain" class="ImLeButtonMain ImLeButtonMainOut buttonBgColor buttonBorderColor send"><div id="sendinnerBox" class="ImLeButtonMainInnerBox buttonInnerBorderColor"><div id="sendinner" class="ImLeButtonMainInner"><div id="sendmainShadow" class="ImLeButtonMainShadow buttonBgShadowColor buttonBgGradColor"></div><div class="ImLeButtonMainContent"><span id="sendtextSpan" class="buttonText">Send</span><div id="sendiconDiv" class="buttonIcon"></div></div></div></div></div></div>	      	    	            <div id="chatmainButton" class="ImLeButton ImLeButtonMainOut ButtonUnwrapped Chat" aria-hidden="true" style="display: none;" role="button"><div id="chatmain" class="ImLeButtonMain ImLeButtonMainOut buttonBgColor buttonBorderColor chat"><div id="chatinnerBox" class="ImLeButtonMainInnerBox buttonInnerBorderColor"><div id="chatinner" class="ImLeButtonMainInner"><div id="chatmainShadow" class="ImLeButtonMainShadow buttonBgShadowColor buttonBgGradColor"></div><div class="ImLeButtonMainContent"><span id="chattextSpan" class="buttonText">Chat</span><div id="chaticonDiv" class="buttonIcon"></div></div></div></div></div></div>          	
+		<div id="callmainButton" class="ImLeButton ImLeButtonMainOut ButtonUnwrapped Call" aria-hidden="true" style="display: none;" role="button"><div id="callmain" class="ImLeButtonMain ImLeButtonMainOut buttonBgColor buttonBorderColor call"><div id="callinnerBox" class="ImLeButtonMainInnerBox buttonInnerBorderColor"><div id="callinner" class="ImLeButtonMainInner"><div id="callmainShadow" class="ImLeButtonMainShadow buttonBgShadowColor buttonBgGradColor"></div><div class="ImLeButtonMainContent"><span id="calltextSpan" class="buttonText">Call</span><div id="calliconDiv" class="buttonIcon"></div></div></div></div></div></div>		<div id="closemainButton" class="ImLeButton ImLeButtonMainOut ButtonUnwrapped SuccessCloseButton" aria-hidden="true" style="display: none;" role="button"><div id="closemain" class="ImLeButtonMain ImLeButtonMainOut buttonBgColor buttonBorderColor close"><div id="closeinnerBox" class="ImLeButtonMainInnerBox buttonInnerBorderColor"><div id="closeinner" class="ImLeButtonMainInner"><div id="closemainShadow" class="ImLeButtonMainShadow buttonBgShadowColor buttonBgGradColor"></div><div class="ImLeButtonMainContent"><span id="closetextSpan" class="buttonText">Close</span><div id="closeiconDiv" class="buttonIcon"></div></div></div></div></div></div>	</div>
+</div>
+<div class="Kb">
+    <div id="kb_entry_panel" class="KbEntryPanel"></div>
+    <div id="kb_side_panel" class="KbSidePanel">
+        <h3 id="kb_title" class="KbTitle">Knowledgebase</h3>
+        <div class="KbResultsWrapper">
+          <div id="kb_results" class="KbResults">
+                        </div>
+       </div>
+    </div> 
+</div>
+<div class="ContactWinButtons">
+    <div class="CloseButton" id="windowCloseButton" onclick="closeWindow();"><span>Close</span></div>
+</div>
+<div id="brandingPanel" class="Branding"></div>
+        </div>
+        
+        <script type="text/javascript">
+            
+            var scriptParams = new Array();
+            var startParams = '';
+            var locationHash = document.location.hash.replace(/^#/, '');
+            var parent_url = decodeURIComponent((locationHash+'').replace(/\+/g, '%20'));
+            
+            var Widget = function() {
+                this.scriptStarted = false;
+            };
+            
+            Widget.prototype = {
+                start: function(param) {
+                    if (this.scriptStarted) {
+                        return;
+                    }
+                    startParams = param;
+                    this.scriptStarted = true;
+                    
+                    var script = window.document.createElement("script");
+                    script.type = "text/javascript";
+                    script.src = '/liveagent/chat/js/com.qualityunit.liveagent.Contact.nocache.php?v=4.56.14.9&lang=en-US.1502720881';
+                    window.document.body.appendChild(script);
+                },
+                setSize: function(width, height) {
+                    var mainElement = document.getElementById('mainElement');
+                    mainElement.style.width = (width - 5) + "px";
+                    mainElement.style.height = (height - 5) + "px";
+                },
+                setParam: function(name, value) {
+                    scriptParams[name] = value;
+                }
+            };
+            
+            var w = new Widget();
+            
+            LiveAgentTrackerXD.receiveMessage('w');
+            
+            var base_path = '/liveagent/';
+			
+			
+        </script>
+		<script type="text/javascript">
+			
+			if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i)) {
+  				var viewportmeta = document.querySelector('meta[name="viewport"]');
+  				if (viewportmeta) {
+    				viewportmeta.content = 'width=device-width, minimum-scale=1.0, maximum-scale=1.0';
+    				document.body.addEventListener('gesturestart', function() {
+      				viewportmeta.content = 'width=device-width, minimum-scale=0.25, maximum-scale=1.6';
+    				}, false);
+  				}
+			}
+			
+		</script>
+    
+</body></html>

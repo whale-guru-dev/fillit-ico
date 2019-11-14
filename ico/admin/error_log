@@ -1,0 +1,809 @@
+[19-Nov-2017 19:21:59 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/include/sidebar.php on line 1
+[19-Nov-2017 19:22:26 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/include/sidebar.php on line 1
+[19-Nov-2017 19:22:54 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/include/sidebar.php on line 1
+[19-Nov-2017 19:23:04 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/include/sidebar.php on line 1
+[19-Nov-2017 19:23:06 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/include/sidebar.php on line 1
+[19-Nov-2017 19:23:09 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/include/sidebar.php on line 1
+[19-Nov-2017 19:23:11 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/include/sidebar.php on line 1
+[19-Nov-2017 19:23:14 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/include/sidebar.php on line 1
+[19-Nov-2017 19:23:16 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/include/sidebar.php on line 1
+[19-Nov-2017 19:30:12 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 19:30:48 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 19:31:36 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 19:31:36 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 19:32:15 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 19:32:38 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 19:32:39 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 19:32:49 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 19:32:50 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 19:32:50 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 19:32:50 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 19:59:37 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:00:03 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:00:04 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:00:05 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:00:06 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:00:06 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:01:46 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:01:47 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:01:59 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:02:01 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:03:05 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:03:06 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:03:07 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:04:05 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:04:07 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:04:34 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:04:36 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:04:53 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:29 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:29 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:30 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:30 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:30 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:31 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:31 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:33 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:34 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:34 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:35 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:46 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:47 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:47 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:47 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:48 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:49 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:05:49 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:06:19 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[19-Nov-2017 20:06:44 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$numuser' (T_VARIABLE) in /home/fillitcr/public_html/admin/home.php on line 1
+[25-Nov-2017 20:03:24 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:04:29 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:04:30 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:04:30 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:04:31 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:05:27 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:05:38 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:05:39 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:05:39 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:06:17 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:06:17 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:07:03 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:07:04 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:07:05 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:07:05 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:07:05 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:07:06 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:07:06 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:07:07 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:07:10 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:07:38 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:07:39 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:07:39 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:07:39 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:07:40 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:07:40 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:07:41 Europe/Sofia] PHP Fatal error:  Call to undefined function phprequire_once() in /home/fillitcr/public_html/admin/include/header.php on line 1
+[25-Nov-2017 20:19:16 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/fillitcr/public_html/admin/addwire.php on line 317
+[25-Nov-2017 20:19:51 Europe/Sofia] PHP Notice:  Undefined index: name in /home/fillitcr/public_html/admin/addwire.php on line 73
+[25-Nov-2017 20:19:51 Europe/Sofia] PHP Notice:  Undefined index: country in /home/fillitcr/public_html/admin/addwire.php on line 77
+[25-Nov-2017 20:24:06 Europe/Sofia] PHP Notice:  Undefined variable: numar in /home/fillitcr/public_html/admin/addwire.php on line 104
+[25-Nov-2017 20:39:25 Europe/Sofia] PHP Notice:  Undefined index: btext in /home/fillitcr/public_html/admin/editwire.php on line 99
+[25-Nov-2017 20:39:25 Europe/Sofia] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fillitcr/public_html/admin/editwire.php on line 143
+[25-Nov-2017 20:39:52 Europe/Sofia] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fillitcr/public_html/admin/editwire.php on line 124
+[25-Nov-2017 20:59:06 Europe/Sofia] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/fillitcr/public_html/admin/editwire.php on line 154
+[25-Nov-2017 21:10:16 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/fillitcr/public_html/admin/Transactions.php on line 1
+[25-Nov-2017 21:10:45 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/fillitcr/public_html/admin/Transactions.php on line 1
+[25-Nov-2017 21:10:45 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/fillitcr/public_html/admin/Transactions.php on line 1
+[25-Nov-2017 21:10:45 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/fillitcr/public_html/admin/Transactions.php on line 1
+[25-Nov-2017 21:10:46 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/fillitcr/public_html/admin/Transactions.php on line 1
+[25-Nov-2017 21:10:46 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/fillitcr/public_html/admin/Transactions.php on line 1
+[25-Nov-2017 21:10:47 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/fillitcr/public_html/admin/Transactions.php on line 1
+[25-Nov-2017 21:11:18 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/fillitcr/public_html/admin/Transactions.php on line 1
+[25-Nov-2017 21:12:27 Europe/Sofia] PHP Notice:  Undefined variable: boxtext in /home/fillitcr/public_html/admin/Transactions.php on line 13
+[25-Nov-2017 21:12:27 Europe/Sofia] PHP Notice:  Undefined variable: pagetxt in /home/fillitcr/public_html/admin/Transactions.php on line 14
+[25-Nov-2017 21:12:27 Europe/Sofia] PHP Notice:  Undefined variable: ttl in /home/fillitcr/public_html/admin/Transactions.php on line 16
+[25-Nov-2017 21:12:27 Europe/Sofia] PHP Notice:  Undefined variable: tpg in /home/fillitcr/public_html/admin/Transactions.php on line 49
+[25-Nov-2017 21:19:32 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE) in /home/fillitcr/public_html/admin/user-trx.php on line 1
+[26-Nov-2017 14:22:21 Europe/Sofia] PHP Notice:  Undefined index: id in /home/fillitcr/public_html/admin/EditFillitP.php on line 87
+[26-Nov-2017 15:16:48 Europe/Sofia] PHP Notice:  A non well formed numeric value encountered in /home/fillitcr/public_html/admin/Transactions.php on line 197
+[26-Nov-2017 15:16:50 Europe/Sofia] PHP Notice:  A non well formed numeric value encountered in /home/fillitcr/public_html/admin/Transactions.php on line 197
+[26-Nov-2017 15:16:51 Europe/Sofia] PHP Notice:  A non well formed numeric value encountered in /home/fillitcr/public_html/admin/Transactions.php on line 197
+[26-Nov-2017 15:17:22 Europe/Sofia] PHP Notice:  A non well formed numeric value encountered in /home/fillitcr/public_html/admin/Transactions.php on line 197
+[26-Nov-2017 15:17:24 Europe/Sofia] PHP Notice:  A non well formed numeric value encountered in /home/fillitcr/public_html/admin/Transactions.php on line 197
+[26-Nov-2017 15:18:47 Europe/Sofia] PHP Notice:  A non well formed numeric value encountered in /home/fillitcr/public_html/admin/Transactions.php on line 197
+[26-Nov-2017 15:19:42 Europe/Sofia] PHP Notice:  A non well formed numeric value encountered in /home/fillitcr/public_html/admin/Transactions.php on line 197
+[26-Nov-2017 15:19:45 Europe/Sofia] PHP Notice:  A non well formed numeric value encountered in /home/fillitcr/public_html/admin/Transactions.php on line 197
+[26-Nov-2017 15:20:22 Europe/Sofia] PHP Notice:  A non well formed numeric value encountered in /home/fillitcr/public_html/admin/Transactions.php on line 197
+[26-Nov-2017 17:43:45 Europe/Sofia] PHP Notice:  Undefined variable: trx in /home/fillitcr/public_html/admin/editwire.php on line 154
+[26-Nov-2017 17:52:03 Europe/Sofia] PHP Notice:  Undefined variable: DepositData in /home/fillitcr/public_html/admin/editwire.php on line 154
+[28-Nov-2017 10:04:20 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[29-Nov-2017 16:17:19 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/fillitcr/public_html/admin/fund-deposited.php on line 1
+[29-Nov-2017 16:17:27 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/fillitcr/public_html/admin/fund-deposited.php on line 1
+[29-Nov-2017 20:17:13 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[29-Nov-2017 20:17:28 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 54
+[01-Dec-2017 19:34:33 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/fillitcr/public_html/admin/KycList.php on line 118
+[01-Dec-2017 19:34:44 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/fillitcr/public_html/admin/KycList.php on line 118
+[01-Dec-2017 19:34:45 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/fillitcr/public_html/admin/KycList.php on line 118
+[01-Dec-2017 19:34:46 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/fillitcr/public_html/admin/KycList.php on line 118
+[01-Dec-2017 19:34:46 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/fillitcr/public_html/admin/KycList.php on line 118
+[01-Dec-2017 19:34:46 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/fillitcr/public_html/admin/KycList.php on line 118
+[01-Dec-2017 19:34:47 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/fillitcr/public_html/admin/KycList.php on line 118
+[01-Dec-2017 19:57:04 Europe/Sofia] PHP Notice:  Undefined index: username in /home/fillitcr/public_html/admin/KycList.php on line 52
+[01-Dec-2017 19:57:06 Europe/Sofia] PHP Notice:  Undefined index: first_name in /home/fillitcr/public_html/admin/KycList.php on line 307
+[01-Dec-2017 19:57:06 Europe/Sofia] PHP Notice:  Undefined index: last_name in /home/fillitcr/public_html/admin/KycList.php on line 313
+[01-Dec-2017 19:57:06 Europe/Sofia] PHP Notice:  Undefined index: address in /home/fillitcr/public_html/admin/KycList.php on line 323
+[01-Dec-2017 19:57:06 Europe/Sofia] PHP Notice:  Undefined index: address2 in /home/fillitcr/public_html/admin/KycList.php on line 329
+[01-Dec-2017 19:57:06 Europe/Sofia] PHP Notice:  Undefined index: country in /home/fillitcr/public_html/admin/KycList.php on line 335
+[01-Dec-2017 19:57:06 Europe/Sofia] PHP Notice:  Undefined index: zip in /home/fillitcr/public_html/admin/KycList.php on line 345
+[01-Dec-2017 19:57:06 Europe/Sofia] PHP Notice:  Undefined index: city in /home/fillitcr/public_html/admin/KycList.php on line 351
+[01-Dec-2017 19:57:06 Europe/Sofia] PHP Notice:  Undefined index: date_of_birth in /home/fillitcr/public_html/admin/KycList.php on line 357
+[01-Dec-2017 19:58:33 Europe/Sofia] PHP Notice:  Undefined index: date_of_birth in /home/fillitcr/public_html/admin/KycList.php on line 329
+[01-Dec-2017 20:02:44 Europe/Sofia] PHP Notice:  Undefined index: username in /home/fillitcr/public_html/admin/KycList.php on line 52
+[01-Dec-2017 20:03:07 Europe/Sofia] PHP Notice:  Undefined index: username in /home/fillitcr/public_html/admin/KycList.php on line 52
+[01-Dec-2017 20:03:09 Europe/Sofia] PHP Notice:  Undefined index: username in /home/fillitcr/public_html/admin/KycList.php on line 52
+[01-Dec-2017 20:03:27 Europe/Sofia] PHP Notice:  Undefined index: username in /home/fillitcr/public_html/admin/KycList.php on line 52
+[01-Dec-2017 20:03:27 Europe/Sofia] PHP Notice:  Undefined index: first_name in /home/fillitcr/public_html/admin/KycList.php on line 127
+[01-Dec-2017 20:03:27 Europe/Sofia] PHP Notice:  Undefined index: last_name in /home/fillitcr/public_html/admin/KycList.php on line 129
+[01-Dec-2017 20:03:37 Europe/Sofia] PHP Notice:  Undefined index: username in /home/fillitcr/public_html/admin/KycList.php on line 52
+[01-Dec-2017 20:04:08 Europe/Sofia] PHP Notice:  Undefined index: username in /home/fillitcr/public_html/admin/KycList.php on line 52
+[01-Dec-2017 20:12:27 Europe/Sofia] PHP Notice:  Undefined index: username in /home/fillitcr/public_html/admin/KycList.php on line 52
+[01-Dec-2017 21:34:07 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fillitcr/public_html/function.php:7) in /home/fillitcr/public_html/admin/include/header.php on line 2
+[01-Dec-2017 21:34:07 Europe/Sofia] PHP Notice:  Undefined variable: db in /home/fillitcr/public_html/admin/include/header.php on line 4
+[01-Dec-2017 21:34:07 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/fillitcr/public_html/admin/include/header.php on line 4
+[03-Dec-2017 17:29:17 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 54
+[04-Dec-2017 10:12:41 Europe/Sofia] PHP Notice:  Undefined index: username in /home/fillitcr/public_html/admin/KycList.php on line 52
+[04-Dec-2017 18:04:03 Europe/Sofia] PHP Notice:  Undefined index: email in /home/fillitcr/public_html/admin/user-details.php on line 36
+[04-Dec-2017 22:31:05 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/fillitcr/public_html/admin/home.php on line 168
+[04-Dec-2017 22:31:06 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/fillitcr/public_html/admin/home.php on line 168
+[04-Dec-2017 22:31:07 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/fillitcr/public_html/admin/home.php on line 168
+[06-Dec-2017 09:09:00 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[06-Dec-2017 09:10:23 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 54
+[06-Dec-2017 09:11:27 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[06-Dec-2017 12:02:13 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[06-Dec-2017 16:54:48 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[07-Dec-2017 13:32:17 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[07-Dec-2017 13:32:30 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[07-Dec-2017 13:32:34 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[07-Dec-2017 13:33:29 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[07-Dec-2017 13:33:55 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[07-Dec-2017 13:52:18 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[07-Dec-2017 13:52:33 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[07-Dec-2017 19:43:12 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[07-Dec-2017 19:43:27 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 54
+[07-Dec-2017 19:49:06 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[07-Dec-2017 19:49:25 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[07-Dec-2017 19:50:53 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[07-Dec-2017 23:57:18 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[07-Dec-2017 23:58:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[07-Dec-2017 23:58:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[07-Dec-2017 23:58:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[07-Dec-2017 23:58:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[07-Dec-2017 23:58:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[07-Dec-2017 23:58:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[07-Dec-2017 23:58:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[07-Dec-2017 23:58:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[07-Dec-2017 23:58:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[07-Dec-2017 23:58:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[07-Dec-2017 23:58:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[07-Dec-2017 23:58:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[07-Dec-2017 23:58:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[07-Dec-2017 23:58:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[07-Dec-2017 23:58:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[09-Dec-2017 20:54:20 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[09-Dec-2017 20:54:20 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[09-Dec-2017 20:54:20 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[09-Dec-2017 20:54:20 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[09-Dec-2017 20:54:20 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[09-Dec-2017 20:54:20 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[09-Dec-2017 20:54:20 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[09-Dec-2017 20:54:20 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[09-Dec-2017 20:54:20 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[09-Dec-2017 20:54:20 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[09-Dec-2017 20:54:20 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[09-Dec-2017 20:54:20 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[09-Dec-2017 20:54:20 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[09-Dec-2017 20:54:20 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[09-Dec-2017 20:54:20 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[09-Dec-2017 20:58:00 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[10-Dec-2017 15:08:06 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:06 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:06 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:06 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:06 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:06 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:06 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:06 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:06 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:06 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:06 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:06 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:06 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:06 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:06 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:14 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:19 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:19 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:19 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:19 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:19 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:19 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:19 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:19 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:19 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:19 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:19 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:19 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:19 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:19 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:19 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:27 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:27 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:27 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:29 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:29 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:29 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:29 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:29 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:29 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:29 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:29 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:29 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:29 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:29 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:29 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:29 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:29 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:29 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:35 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:35 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:35 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:35 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:35 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:35 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:35 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:35 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:35 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:35 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:35 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:35 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:35 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:35 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:08:35 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:09 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:09 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:09 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:09 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:09 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:09 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:09 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:09 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:09 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:09 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:09 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:09 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:09 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:09 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:09 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:13 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:13 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:13 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:15 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:15 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:15 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:15 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:15 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:15 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:15 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:15 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:15 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:15 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:15 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:15 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:15 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:15 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[10-Dec-2017 15:09:15 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:33:08 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 16:39:18 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:39:18 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:39:18 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:39:18 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:39:18 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:39:18 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:39:18 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:39:18 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:39:18 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:39:18 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:39:18 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:39:18 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:39:18 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:39:18 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:39:18 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:44:59 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 16:49:21 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 16:50:38 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:50:38 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:50:38 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:50:38 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:50:38 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:50:38 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:50:38 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:50:38 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:50:38 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:50:38 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:50:38 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:50:38 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:50:38 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:50:38 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:50:38 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 16:52:45 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 16:52:48 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 16:53:35 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 16:53:39 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 16:54:36 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 16:54:40 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 16:55:13 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 16:55:20 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 16:57:55 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 16:58:42 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 16:59:58 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 17:07:50 Europe/Sofia] PHP Notice:  Undefined index: username in /home/fillitcr/public_html/admin/KycList.php on line 52
+[11-Dec-2017 18:39:44 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 18:39:44 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 18:39:44 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 18:39:44 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 18:39:44 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 18:39:44 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 18:39:44 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 18:39:44 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 18:39:44 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 18:39:44 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 18:39:44 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 18:39:44 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 18:39:44 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 18:39:44 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 18:39:44 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/fillitcr/public_html/admin/fund-deposited.php on line 198
+[11-Dec-2017 19:15:17 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 19:15:47 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 19:17:38 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 19:17:42 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[11-Dec-2017 19:18:32 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/fillitcr/public_html/admin/user-deposit.php on line 1
+[11-Dec-2017 19:18:33 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/fillitcr/public_html/admin/user-deposit.php on line 1
+[11-Dec-2017 19:18:34 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/fillitcr/public_html/admin/user-deposit.php on line 1
+[12-Dec-2017 11:48:53 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[12-Dec-2017 21:14:47 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[12-Dec-2017 21:15:22 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[12-Dec-2017 21:20:32 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 54
+[12-Dec-2017 23:19:14 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[12-Dec-2017 23:19:42 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[12-Dec-2017 23:20:04 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[13-Dec-2017 00:54:03 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[13-Dec-2017 17:37:37 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[13-Dec-2017 20:01:52 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[13-Dec-2017 20:02:00 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[13-Dec-2017 20:02:21 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[14-Dec-2017 09:29:13 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[14-Dec-2017 19:10:49 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[14-Dec-2017 20:28:43 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[14-Dec-2017 20:29:01 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[14-Dec-2017 20:29:06 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[15-Dec-2017 00:12:45 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[15-Dec-2017 00:14:20 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[15-Dec-2017 00:15:17 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[15-Dec-2017 00:16:10 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[15-Dec-2017 00:16:36 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[15-Dec-2017 00:16:46 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[15-Dec-2017 00:18:36 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[15-Dec-2017 00:19:01 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[15-Dec-2017 00:22:47 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[15-Dec-2017 09:43:49 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[15-Dec-2017 10:05:16 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[15-Dec-2017 13:56:18 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[15-Dec-2017 19:53:31 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[15-Dec-2017 19:55:10 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[16-Dec-2017 02:00:31 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[16-Dec-2017 02:06:02 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[16-Dec-2017 02:06:13 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[16-Dec-2017 02:07:00 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[16-Dec-2017 02:07:19 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[16-Dec-2017 02:22:24 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[16-Dec-2017 02:22:34 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[16-Dec-2017 09:20:49 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[16-Dec-2017 09:27:25 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[16-Dec-2017 09:27:43 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[16-Dec-2017 09:32:42 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[16-Dec-2017 09:36:18 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[16-Dec-2017 09:37:01 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[16-Dec-2017 11:04:54 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[16-Dec-2017 11:05:09 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[16-Dec-2017 16:54:13 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[16-Dec-2017 16:55:41 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[16-Dec-2017 16:58:58 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[17-Dec-2017 11:59:15 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[17-Dec-2017 12:00:11 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[17-Dec-2017 17:38:52 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[17-Dec-2017 17:39:35 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[17-Dec-2017 17:58:21 Europe/Sofia] PHP Notice:  Undefined index: username in /home/fillitcr/public_html/admin/KycList.php on line 52
+[18-Dec-2017 17:35:59 Europe/Sofia] PHP Notice:  Undefined index: username in /home/fillitcr/public_html/admin/KycList.php on line 52
+[18-Dec-2017 19:33:01 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[18-Dec-2017 19:48:11 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[19-Dec-2017 12:32:43 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 12:34:11 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 12:34:59 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 12:36:02 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 12:38:48 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 12:39:05 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 12:39:19 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 13:10:17 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 13:17:51 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 13:18:30 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 13:18:36 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 13:18:41 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 13:18:49 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 13:18:54 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 13:19:09 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 13:19:12 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 13:19:20 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 13:19:24 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 13:19:28 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 13:22:29 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 17:10:50 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 17:49:54 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 18:02:15 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 18:02:42 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 19:02:45 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 19:06:57 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[19-Dec-2017 19:07:47 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 19:08:35 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[19-Dec-2017 19:10:25 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 19:13:49 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 19:17:32 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[19-Dec-2017 19:19:22 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 19:19:32 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[19-Dec-2017 19:19:59 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 19:20:40 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 19:21:16 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 19:21:25 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[19-Dec-2017 19:21:55 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 19:22:21 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 19:22:30 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[19-Dec-2017 19:22:47 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 19:23:34 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 19:25:35 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 19:46:51 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 20:25:52 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 20:29:50 Europe/Sofia] PHP Notice:  Undefined index: username in /home/fillitcr/public_html/admin/KycList.php on line 52
+[19-Dec-2017 20:29:54 Europe/Sofia] PHP Notice:  Undefined index: username in /home/fillitcr/public_html/admin/KycList.php on line 52
+[19-Dec-2017 20:31:47 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 20:37:40 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 20:52:24 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 20:52:44 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 20:53:07 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 20:53:13 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 20:53:17 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 20:53:24 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 20:53:39 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 20:53:42 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 20:53:52 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/fillitcr/public_html/admin/WireReq.php on line 90
+[19-Dec-2017 20:53:54 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 20:54:03 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 20:54:36 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/fillitcr/public_html/admin/WireReq.php on line 90
+[19-Dec-2017 20:54:38 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/fillitcr/public_html/admin/WireReq.php on line 90
+[19-Dec-2017 20:55:03 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/fillitcr/public_html/admin/WireReq.php on line 90
+[19-Dec-2017 20:55:06 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/fillitcr/public_html/admin/WireReq.php on line 90
+[19-Dec-2017 20:58:33 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 20:58:42 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 20:59:25 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 21:00:09 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 21:03:58 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 21:04:17 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 21:04:21 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 21:04:30 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 21:05:35 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 21:05:41 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 21:06:01 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 21:06:19 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 21:06:37 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 21:08:05 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 21:08:19 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 21:13:35 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 21:13:39 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 21:33:44 Europe/Sofia] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/fillitcr/public_html/admin/user-details.php on line 393
+[19-Dec-2017 21:55:50 Europe/Sofia] PHP Notice:  Undefined index: status in /home/fillitcr/public_html/admin/editwire.php on line 211
+[19-Dec-2017 21:55:50 Europe/Sofia] PHP Notice:  Undefined index: status in /home/fillitcr/public_html/admin/editwire.php on line 225
+[19-Dec-2017 21:55:50 Europe/Sofia] PHP Notice:  Undefined index: status in /home/fillitcr/public_html/admin/editwire.php on line 240
+[19-Dec-2017 21:55:50 Europe/Sofia] PHP Notice:  Undefined index: status in /home/fillitcr/public_html/admin/editwire.php on line 253
+[19-Dec-2017 21:55:50 Europe/Sofia] PHP Notice:  Undefined index: status in /home/fillitcr/public_html/admin/editwire.php on line 264
+[19-Dec-2017 21:55:50 Europe/Sofia] PHP Notice:  Undefined index: status in /home/fillitcr/public_html/admin/editwire.php on line 275
+[19-Dec-2017 21:55:50 Europe/Sofia] PHP Notice:  Undefined index: status in /home/fillitcr/public_html/admin/editwire.php on line 292
+[19-Dec-2017 21:55:50 Europe/Sofia] PHP Notice:  Undefined index: status in /home/fillitcr/public_html/admin/editwire.php on line 305
+[19-Dec-2017 21:58:13 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[19-Dec-2017 21:58:24 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 32
+[19-Dec-2017 22:03:38 Europe/Sofia] PHP Parse error:  syntax error, unexpected '{' in /home/fillitcr/public_html/admin/user-balance.php on line 1
+[19-Dec-2017 22:07:58 Europe/Sofia] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/fillitcr/public_html/admin/Transactions.php on line 219
+[19-Dec-2017 22:07:59 Europe/Sofia] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/fillitcr/public_html/admin/Transactions.php on line 219
+[19-Dec-2017 22:15:02 Europe/Sofia] PHP Notice:  Undefined variable: txn_id in /home/fillitcr/public_html/admin/user-balance.php on line 117
+[19-Dec-2017 22:33:47 Europe/Sofia] PHP Warning:  date() expects parameter 2 to be long, string given in /home/fillitcr/public_html/admin/fund-deposited.php on line 319
+[19-Dec-2017 22:33:47 Europe/Sofia] PHP Warning:  date() expects parameter 2 to be long, string given in /home/fillitcr/public_html/admin/fund-deposited.php on line 319
+[19-Dec-2017 22:33:47 Europe/Sofia] PHP Warning:  date() expects parameter 2 to be long, string given in /home/fillitcr/public_html/admin/fund-deposited.php on line 319
+[19-Dec-2017 22:33:47 Europe/Sofia] PHP Warning:  date() expects parameter 2 to be long, string given in /home/fillitcr/public_html/admin/fund-deposited.php on line 319
+[19-Dec-2017 22:33:47 Europe/Sofia] PHP Warning:  date() expects parameter 2 to be long, string given in /home/fillitcr/public_html/admin/fund-deposited.php on line 319
+[19-Dec-2017 22:33:47 Europe/Sofia] PHP Warning:  date() expects parameter 2 to be long, string given in /home/fillitcr/public_html/admin/fund-deposited.php on line 319
+[19-Dec-2017 23:14:27 Europe/Sofia] PHP Notice:  Undefined variable: numdeposit in /home/fillitcr/public_html/admin/home.php on line 234
+[19-Dec-2017 23:14:27 Europe/Sofia] PHP Notice:  Undefined variable: numdeposit in /home/fillitcr/public_html/admin/home.php on line 234
+[19-Dec-2017 23:14:28 Europe/Sofia] PHP Notice:  Undefined variable: numdeposit in /home/fillitcr/public_html/admin/home.php on line 234
+[19-Dec-2017 23:14:28 Europe/Sofia] PHP Notice:  Undefined variable: numdeposit in /home/fillitcr/public_html/admin/home.php on line 234
+[19-Dec-2017 23:48:05 Europe/Sofia] PHP Notice:  Undefined index: username in /home/fillitcr/public_html/admin/KycList.php on line 48
+[21-Dec-2017 11:30:17 Europe/Sofia] PHP Warning:  date() expects parameter 2 to be long, string given in /home/fillitcr/public_html/admin/user-referrals.php on line 134
+[21-Dec-2017 11:30:17 Europe/Sofia] PHP Notice:  Undefined variable: method in /home/fillitcr/public_html/admin/user-referrals.php on line 144
+[21-Dec-2017 11:31:28 Europe/Sofia] PHP Warning:  date() expects parameter 2 to be long, string given in /home/fillitcr/public_html/admin/user-referrals.php on line 134
+[21-Dec-2017 11:32:15 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/fillitcr/public_html/admin/user-referrals.php on line 130
+[21-Dec-2017 11:33:36 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/fillitcr/public_html/admin/user-referrals.php on line 130
+[21-Dec-2017 11:33:48 Europe/Sofia] PHP Warning:  date() expects parameter 2 to be long, string given in /home/fillitcr/public_html/admin/user-referrals.php on line 134
+[21-Dec-2017 23:45:23 Europe/Sofia] PHP Notice:  Undefined index: username in /home/fillitcr/public_html/admin/KycList.php on line 48
+[28-Dec-2017 13:52:19 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[28-Dec-2017 23:20:02 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[28-Dec-2017 23:21:29 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[29-Dec-2017 17:07:12 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[29-Dec-2017 17:26:08 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/WireReq.php on line 85
+[29-Dec-2017 17:26:21 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/WireReq.php on line 85
+[29-Dec-2017 17:26:23 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/home.php on line 18
+[30-Dec-2017 14:47:38 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[30-Dec-2017 14:47:43 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[30-Dec-2017 14:47:57 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[30-Dec-2017 14:48:44 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[30-Dec-2017 14:51:42 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[30-Dec-2017 15:49:30 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[30-Dec-2017 15:49:42 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[30-Dec-2017 15:49:47 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[30-Dec-2017 17:20:44 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[30-Dec-2017 17:21:24 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[01-Jan-2018 22:28:45 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[02-Jan-2018 12:52:51 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[02-Jan-2018 12:59:42 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[02-Jan-2018 13:09:46 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[02-Jan-2018 15:41:39 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[02-Jan-2018 15:57:12 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[02-Jan-2018 16:02:13 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[02-Jan-2018 16:15:08 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[02-Jan-2018 16:29:06 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[02-Jan-2018 23:00:29 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[02-Jan-2018 23:46:55 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[03-Jan-2018 00:08:01 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[03-Jan-2018 01:04:28 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[03-Jan-2018 08:23:12 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filliteu/public_html/ico/admin/include/header.php:10) in /home/filliteu/public_html/ico/admin/user-all.php on line 48
+[03-Jan-2018 08:23:12 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filliteu/public_html/ico/admin/include/header.php:10) in /home/filliteu/public_html/ico/admin/user-all.php on line 49
+[03-Jan-2018 08:29:12 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filliteu/public_html/ico/admin/include/header.php:10) in /home/filliteu/public_html/ico/admin/user-all.php on line 48
+[03-Jan-2018 08:29:12 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filliteu/public_html/ico/admin/include/header.php:10) in /home/filliteu/public_html/ico/admin/user-all.php on line 49
+[03-Jan-2018 08:30:35 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filliteu/public_html/ico/admin/include/header.php:10) in /home/filliteu/public_html/ico/admin/user-all.php on line 48
+[03-Jan-2018 08:30:35 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filliteu/public_html/ico/admin/include/header.php:10) in /home/filliteu/public_html/ico/admin/user-all.php on line 49
+[03-Jan-2018 08:36:22 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filliteu/public_html/ico/admin/include/header.php:10) in /home/filliteu/public_html/ico/admin/user-all.php on line 48
+[03-Jan-2018 08:36:22 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/filliteu/public_html/ico/admin/include/header.php:10) in /home/filliteu/public_html/ico/admin/user-all.php on line 49
+[03-Jan-2018 08:38:49 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:22) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 08:39:10 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on null in /home/filliteu/public_html/ico/admin/user-all.php on line 13
+[03-Jan-2018 08:39:29 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:22) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 08:41:40 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/filliteu/public_html/ico/admin/user-all.php on line 9
+[03-Jan-2018 08:44:59 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:38) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 08:45:18 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-all.php on line 28
+[03-Jan-2018 08:49:05 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:38) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 08:49:10 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:38) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 08:50:43 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:38) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 08:54:31 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:39) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 08:54:56 Europe/Sofia] PHP Fatal error:  Call to undefined function redirect() in /home/filliteu/public_html/ico/admin/user-all.php on line 35
+[03-Jan-2018 08:55:59 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:39) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 08:56:13 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:39) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 09:07:36 Europe/Sofia] PHP Fatal error:  Call to undefined function redirect() in /home/filliteu/public_html/ico/admin/user-all.php on line 35
+[03-Jan-2018 09:08:13 Europe/Sofia] PHP Fatal error:  Call to undefined function redirect() in /home/filliteu/public_html/ico/admin/user-all.php on line 35
+[03-Jan-2018 09:09:11 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:39) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 09:09:15 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:39) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 09:32:26 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:39) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 09:33:12 Europe/Sofia] PHP Fatal error:  Call to undefined function redirect() in /home/filliteu/public_html/ico/admin/user-all.php on line 35
+[03-Jan-2018 09:52:43 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:39) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 09:54:49 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:39) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 09:54:55 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:39) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 09:55:06 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:39) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 09:55:54 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:39) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 09:56:00 Europe/Sofia] PHP Fatal error:  Call to undefined function redirect() in /home/filliteu/public_html/ico/admin/user-all.php on line 35
+[03-Jan-2018 09:57:38 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:39) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 09:58:02 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:39) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 09:58:04 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:39) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 09:58:20 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:39) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 10:14:00 Europe/Sofia] PHP Fatal error:  Call to undefined function redirect() in /home/filliteu/public_html/ico/admin/user-all.php on line 35
+[03-Jan-2018 10:40:26 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:38) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 10:40:31 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:26) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 11:32:01 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 11:32:01 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 11:32:12 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 11:32:24 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 12:47:08 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 12:47:38 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 12:47:54 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 12:47:58 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 12:48:03 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 12:48:09 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 12:48:18 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 12:48:26 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 12:48:34 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 12:48:43 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 12:48:49 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 12:48:56 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 12:49:04 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 12:49:13 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 12:49:39 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 12:58:14 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:00:19 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:00:30 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:00:52 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:10:26 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:10:36 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:10:42 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:20:48 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:21:05 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:21:16 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:21:40 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:23:40 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:08 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:08 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:14 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:18 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:21 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:23 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:26 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:28 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:32 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:34 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:39 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:42 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:45 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:47 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:50 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:53 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:55 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:24:58 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:25:01 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:25:53 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:37:47 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:37:56 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 13:38:03 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 14:37:14 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[03-Jan-2018 14:38:33 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 14:38:39 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 14:43:32 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 14:43:51 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 14:44:02 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 14:45:10 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 14:47:10 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 14:47:18 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 14:53:35 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 15:06:21 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 15:06:32 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 15:06:53 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 15:06:59 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 15:40:18 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 15:40:54 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 15:41:07 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 15:42:21 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 15:45:00 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 15:45:14 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 15:45:29 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 15:45:39 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 16:50:39 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 16:50:49 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 16:52:30 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 16:52:36 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 16:52:46 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 16:52:51 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:37:38 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:37:53 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:39:32 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:39:39 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:39:49 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:41:10 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:41:20 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:44:18 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:44:24 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:44:35 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:44:39 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:44:42 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:44:44 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:44:48 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:44:50 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:44:51 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:44:53 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:44:55 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:44:57 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:44:58 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:45:00 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:45:02 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:45:04 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:45:06 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:45:08 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:45:10 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:45:12 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:45:14 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:45:47 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[03-Jan-2018 19:46:57 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:47:03 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:40) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:53:47 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:53:55 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:54:06 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:54:12 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:54:58 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:55:07 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:56:16 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:56:24 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 19:56:51 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:09:59 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:10:03 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:10:56 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:13:02 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:13:07 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:13:17 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[03-Jan-2018 20:13:22 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:13:28 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:14:04 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:14:09 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:14:32 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:14:39 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:17:20 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:28:52 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:28:59 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:30:22 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:30:31 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:31:29 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 20:31:38 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 22:50:40 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 22:50:53 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 22:52:43 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 22:52:49 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 22:54:34 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 22:54:40 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 22:54:49 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 22:54:55 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 23:44:01 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 23:44:10 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[03-Jan-2018 23:47:08 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[04-Jan-2018 05:15:31 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[04-Jan-2018 05:15:39 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[04-Jan-2018 05:28:57 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[04-Jan-2018 05:31:43 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[04-Jan-2018 05:31:51 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[04-Jan-2018 05:31:55 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[04-Jan-2018 05:34:05 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[04-Jan-2018 05:34:16 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/filliteu/public_html/ico/admin/user-all.php:3) in /home/filliteu/public_html/ico/admin/include/header.php on line 2
+[04-Jan-2018 11:07:37 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 149
+[04-Jan-2018 16:24:33 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[04-Jan-2018 16:27:30 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[04-Jan-2018 16:28:21 Europe/Sofia] PHP Parse error:  syntax error, unexpected '{' in /home/filliteu/public_html/ico/admin/user-balance.php on line 146
+[04-Jan-2018 16:28:38 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[04-Jan-2018 16:29:53 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[04-Jan-2018 16:30:19 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[04-Jan-2018 16:30:29 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[04-Jan-2018 16:31:28 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[04-Jan-2018 16:31:38 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 104
+[04-Jan-2018 16:32:06 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/user-balance.php on line 105
+[04-Jan-2018 16:34:45 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[05-Jan-2018 01:11:31 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[05-Jan-2018 01:11:45 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[05-Jan-2018 01:11:50 Europe/Sofia] PHP Notice:  Undefined index: username in /home/filliteu/public_html/ico/admin/KycList.php on line 48
+[05-Jan-2018 15:20:34 Europe/Sofia] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/filliteu/public_html/ico/admin/invested.php on line 89
+[05-Jan-2018 15:21:04 Europe/Sofia] PHP Notice:  Undefined variable: tpg in /home/filliteu/public_html/ico/admin/invested.php on line 202
+[05-Jan-2018 15:21:31 Europe/Sofia] PHP Notice:  Undefined index: id in /home/filliteu/public_html/ico/admin/invested.php on line 149
+[05-Jan-2018 15:21:31 Europe/Sofia] PHP Notice:  Undefined index: id in /home/filliteu/public_html/ico/admin/invested.php on line 149
+[05-Jan-2018 15:21:31 Europe/Sofia] PHP Notice:  Undefined index: id in /home/filliteu/public_html/ico/admin/invested.php on line 149
+[05-Jan-2018 15:21:31 Europe/Sofia] PHP Notice:  Undefined index: id in /home/filliteu/public_html/ico/admin/invested.php on line 149
+[05-Jan-2018 15:21:31 Europe/Sofia] PHP Notice:  Undefined variable: tpg in /home/filliteu/public_html/ico/admin/invested.php on line 202
+[05-Jan-2018 15:23:19 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/invested.php on line 134
+[05-Jan-2018 15:23:21 Europe/Sofia] PHP Fatal error:  Call to a member function fetch() on boolean in /home/filliteu/public_html/ico/admin/invested.php on line 134
+[05-Jan-2018 15:23:54 Europe/Sofia] PHP Notice:  Undefined variable: tpg in /home/filliteu/public_html/ico/admin/invested.php on line 196
+[05-Jan-2018 15:28:03 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/filliteu/public_html/ico/admin/invested.php on line 189
+[05-Jan-2018 15:28:04 Europe/Sofia] PHP Parse error:  syntax error, unexpected '}' in /home/filliteu/public_html/ico/admin/invested.php on line 189
+[05-Jan-2018 15:28:24 Europe/Sofia] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/filliteu/public_html/ico/admin/invested.php on line 146
+[06-Jan-2018 14:47:11 Europe/Sofia] PHP Notice:  Undefined offset: 11 in /home/filliteu/public_html/ico/admin/Transactions.php on line 241
+[09-Jan-2018 10:30:02 Europe/Sofia] PHP Notice:  Use of undefined constant mallu - assumed 'mallu' in /home/filliteu/public_html/ico/admin/user-details.php on line 71
+[09-Jan-2018 10:30:36 Europe/Sofia] PHP Notice:  Use of undefined constant mallu - assumed 'mallu' in /home/filliteu/public_html/ico/admin/user-details.php on line 71
+[09-Jan-2018 10:41:00 Europe/Sofia] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/filliteu/public_html/ico/admin/user-details.php on line 81
+[09-Jan-2018 10:41:30 Europe/Sofia] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/filliteu/public_html/ico/admin/user-details.php on line 81
+[09-Jan-2018 10:42:07 Europe/Sofia] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/filliteu/public_html/ico/admin/user-details.php on line 82
+[09-Jan-2018 10:42:48 Europe/Sofia] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/filliteu/public_html/ico/admin/user-details.php on line 83

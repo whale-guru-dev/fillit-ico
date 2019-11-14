@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="98px" viewBox="0 0 98 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-sign-up</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="49" cy="49" r="49"></circle>
+        <filter x="-2.0%" y="-2.0%" width="104.1%" height="104.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.611626469   0 0 0 0 0.715683902   0 0 0 0 0.87755102  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="form-inline" transform="translate(-152.000000, -44.000000)">
+            <g id="ico-sign-up" transform="translate(152.000000, 44.000000)">
+                <g id="Oval-2">
+                    <use fill="#CCDAF0" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+                <g id="Page-1" transform="translate(27.000000, 27.000000)">
+                    <polygon id="Stroke-1" stroke-opacity="0.00784313771" stroke="#000000" stroke-width="1.33333335e-11" points="0 0 43.3962264 0 43.3962264 44 0 44"></polygon>
+                    <g id="Group-5" transform="translate(2.603774, 5.280000)" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M29.5456845,35.6399976 L29.5456845,31.7288867 C29.5456845,26.5140733 26.9298274,23.906665 21.6981119,23.906665 L7.96485981,23.906665 C5.79781259,23.9066667 3.94812185,24.6703579 2.41578808,26.1977421 C0.883454062,27.7251244 0.11728719,29.5688381 0.11728719,31.7288867 L0.11728719,35.6399976" id="Stroke-2"></path>
+                        <path d="M22.6790585,8.26222155 C22.6790585,13.4770366 20.0632014,16.0844433 14.8314859,16.0844433 C9.59977014,16.0844433 6.98391323,13.4770366 6.98391323,8.26222155 C6.98391323,3.04740644 9.59977014,0.439999837 14.8314859,0.439999837 C20.0632014,0.439999837 22.6790585,3.04740644 22.6790585,8.26222155 Z" id="Stroke-3"></path>
+                        <polyline id="Stroke-4" points="31.5075777 16.0844433 35.431364 19.9955541 43.2789366 12.1733324"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

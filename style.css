@@ -1,0 +1,277 @@
+.w3-animate-zoom {animation:animatezoom 0.6s;    background-color: #09b2ef;
+    color: #fff;}@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
+.block-jumbotron .jumbotron{padding:6rem 0 6rem;background-color:transparent;color:#5162ad}.block-jumbotron .jumbotron h1.main-cta{font-size:2.8rem;color:#5162ad}.block-jumbotron .jumbotron p.second-cta{font-size:1.5rem;color:#5162ad}.block-jumbotron .jumbotron .lead-button{padding-top:2.5rem}.block-jumbotron .jumbotron .card-ill-holder{position:relative}.block-jumbotron .jumbotron .card-ill-holder .card-item{position:absolute;width:399px;height:250px;}.block-jumbotron .jumbotron .card-ill-holder .top-card{top:-1rem;left:3rem}.block-jumbotron .jumbotron .card-ill-holder .bottom-card{top:3rem;left:6rem}@media(max-width:991px){.block-jumbotron .jumbotron .card-ill-holder{margin-right:-5rem}.block-jumbotron .jumbotron h1.main-cta{font-size:2rem;color:#5162ad}.block-jumbotron .jumbotron p.second-cta{font-size:1rem;color:#5162ad}}
+.parallax-element-one, .parallax-element-two{transform-style: preserve-3d;
+    box-shadow: 0 38px 50px -26px rgba(35,65,133,0.35);
+}
+a{color:#000;}
+.myButton{border:solid 3px #fff; background:none; color:#fff; font-size:16px; padding:5px 15px; text-transform:uppercase}
+.myButton a{color:#fff!important}
+.myButton a:hover{color:#1e50e2!important}
+.myButton:hover{background-color:#fff; color:#1e50e2}
+.lag{background:none!important; color:#fff;border:none!important; border-radius:0;padding:6px 15px!important;font-size:15px;}
+.lag:hover{color:#fff}
+.lag:focus{color:#fff!important;border:none!important;}
+.lag:active{box-shadow:none!important;border:none!important;}
+.dropdown-menu{    min-width: 135px!important;}
+.dropdown-menu>li>a{padding:3px 5px!important;}
+.dropdown:focus{box-shadow:none!important;border:none!important;}
+.al {
+    position: fixed;
+    left: 0;
+    bottom: -20px;
+    width: 100%;
+    background-color: rgba(3,3,3,0.8); border:none; border-radius:0;
+    color: white;
+    text-align: center; z-index:99999;
+}
+.f li{list-style:circle; text-align:left; font-size:16px; line-height:33px;}
+.close{font-size: 40px!important; color:#000!important; opacity:1!important}
+.modal-content input{padding:20px !important;}
+.modal-content small{margin-top: -8%;}
+.btn-primary {border:none!important;background-color:#1c56e1}
+.btn-primary1 {
+    background: none;
+    border: solid 2px #fff!important;font-size: 16px;
+}
+.btn-primary1:hover{background-color:#fff}
+@media only screen and (max-width: 980px){
+.banner-text{margin-top:1%!important}
+.myButton a{color:#000!important}
+.myButton{border:solid 3px #000!important;color:#000!important;}
+.myButton:hover{background-color:#fff!important; color:#fff!important}
+}
+@media only screen and (min-width: 1024px){
+.wi {
+    width: 450px!important;
+}
+}
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+.ca{ background: -webkit-linear-gradient(left, #25c481, #25b7c4)!important;
+  background: linear-gradient(to right, #25c481, #25b7c4)!important;
+  font-family: 'Roboto', sans-serif;}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+/* demo styles */
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
+
+/* follow me template */
+.made-with-love {
+  margin-top: 40px;
+  padding: 10px;
+  clear: left;
+  text-align: center;
+  font-size: 10px;
+  font-family: arial;
+  color: #fff;
+}
+.made-with-love i {
+  font-style: normal;
+  color: #F50057;
+  font-size: 14px;
+  position: relative;
+  top: 2px;
+}
+.made-with-love a {
+  color: #fff;
+  text-decoration: none;
+}
+.made-with-love a:hover {
+  text-decoration: underline;
+}
+
+.tr>tbody>tr>td{
+  padding:5px 15px;
+  text-align: left;
+  vertical-align:middle;
+  font-weight: 300;
+  font-size: 16px;
+  color: #fff;
+  border-bottom: solid 1px rgba(255,255,255,0.1)!important;
+
+	
+}
+/* for custom scrollbar for webkit browser*/
+
+::-webkit-scrollbar {
+    width: 6px;
+} 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+} 
+::-webkit-scrollbar-thumb {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+}
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    transform: translateY(-1em);
+  transition: all 0.20s ease-in-out 0s, visibility 0s linear 0.20s, z-index 0s linear 0.20s;
+     visibility: hidden;
+right:-12%;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 145px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+
+	}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+   display:block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+     visibility: visible; 
+	 transform: translateY(5%);
+  transition-delay: 0s, 0s, 0.20s;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+.block-fee-details h2 {
+    color: #234185;
+    font-size: 3rem;
+    font-weight: 400;
+    max-width: 100%;
+}
+.block-fee-details {
+    padding: 1rem 0 3rem;
+}
+ .block-fee-details .fee-description-item:last-child {
+    border-bottom: 0;
+}
+.block-fee-details .fee-description-item {
+    border-bottom: 1px solid #b1c9db;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+.block-fee-details table tr:first-child th,.block-fee-details table tr:first-child td {
+    border-top: 0;
+}
+.block-fee-details table tr th,.block-fee-details table tr td {
+    color: #52679e;
+    font-weight: normal;
+}
+.block-fee-details table tr td {
+    text-align: right;
+}
+.block-fee-details table tr th, .block-fee-details table tr td {
+    color: #52679e; font-size:16px;
+    font-weight: normal;
+}
+.listing {
+  font-size: 14px;
+  list-style-type: none;
+  margin-top:30px;
+  padding: 0; }
+
+.listing > * {
+  margin-bottom: 0.5em; }
+
+.listing--ruled > * {
+  border-top: 1px solid #dfe4e6;
+  margin-bottom: 0.8em;
+  margin-top: 0.4em;
+  padding-top: 0.9em; }
+
+.listing--requests > * {
+  border-top: 1px solid #dfe4e6;
+  margin-bottom: 0.8em;
+  padding-top: 1em; }
+
+.listing--search > * {
+  padding: 0.8em 0; }
+
+.listing--spaced > * {
+  margin-bottom: 2.2em; }
+
+.listing--article > * {
+  color: #2d3138;
+  margin-bottom: 1.2em; }
+
+.listing--hilite {
+  background-color: #f5f9fb;
+  border: 1px solid #dfe4e6;
+  padding: 1.25em 1.25em 0.85em; }
+
+.listing--hilite > * {
+  background: url("https://loadoo.kayakocdn.com/__apps/helpcenter/assets/primary/images/chevron-right.svg") transparent center right no-repeat; }
+
+.listing--hilite > *:last-child {
+  margin-bottom: 0; }
+
+@media screen and (min-width: 45em) {
+  .listing--uniform > li {
+    display: inline-block;
+    max-height: 4.8em;
+    margin-bottom: 1.5em;
+    overflow: hidden;
+    vertical-align: top;
+    width: 49%;
+    } }
+/* Currently same style as h4 in Heading.scss and MsgBox-head
+ * TODO: replace with heading--4 ??
+ */
+ h4, .heading--4 {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.4;
+    margin: 0 0 0.2em;
+}
+.listing__head {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.3;
+  margin: -0.2em 0 0.3em; }
+
+/* ==========================================================================
+   listrow
+   ========================================================================== */
+/**
+ * list items in a row, with display inline block
+ */
+.listrow {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+
+.listrow > * {
+  display: inline-block;
+  margin-right: 0.75em; }
+.block-fee-details ol li{list-style:decimal}
+.block-fee-details ul li{list-style:circle; margin-left:20px}

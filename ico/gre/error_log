@@ -1,0 +1,31 @@
+[29-Nov-2017 22:29:47 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/fillitcr/public_html/gre/index.php on line 3
+[29-Nov-2017 22:31:39 Europe/Sofia] PHP Fatal error:  Call to a member function query() on null in /home/fillitcr/public_html/gre/index.php on line 3
+[29-Nov-2017 22:32:35 Europe/Sofia] PHP Warning:  require_once(include-global.php): failed to open stream: No such file or directory in /home/fillitcr/public_html/gre/header.php on line 25
+[29-Nov-2017 22:32:35 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required 'include-global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fillitcr/public_html/gre/header.php on line 25
+[29-Nov-2017 22:32:36 Europe/Sofia] PHP Warning:  require_once(include-global.php): failed to open stream: No such file or directory in /home/fillitcr/public_html/gre/header.php on line 25
+[29-Nov-2017 22:32:36 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required 'include-global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fillitcr/public_html/gre/header.php on line 25
+[29-Nov-2017 22:32:38 Europe/Sofia] PHP Warning:  require_once(include-global.php): failed to open stream: No such file or directory in /home/fillitcr/public_html/gre/header.php on line 25
+[29-Nov-2017 22:32:38 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required 'include-global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fillitcr/public_html/gre/header.php on line 25
+[29-Nov-2017 22:32:39 Europe/Sofia] PHP Warning:  require_once(include-global.php): failed to open stream: No such file or directory in /home/fillitcr/public_html/gre/header.php on line 25
+[29-Nov-2017 22:32:39 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required 'include-global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fillitcr/public_html/gre/header.php on line 25
+[29-Nov-2017 22:32:47 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fillitcr/public_html/gre/header.php:1) in /home/fillitcr/public_html/include-global.php on line 3
+[29-Nov-2017 22:32:54 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fillitcr/public_html/gre/header.php:1) in /home/fillitcr/public_html/include-global.php on line 3
+[29-Nov-2017 22:33:16 Europe/Sofia] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fillitcr/public_html/gre/header.php:1) in /home/fillitcr/public_html/include-global.php on line 3
+[29-Nov-2017 22:37:38 Europe/Sofia] PHP Notice:  Undefined variable: dataax in /home/fillitcr/public_html/gre/footer.php on line 1
+[29-Nov-2017 22:38:00 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$dataax' (T_VARIABLE) in /home/fillitcr/public_html/gre/footer.php on line 1
+[29-Nov-2017 22:38:06 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$dataax' (T_VARIABLE) in /home/fillitcr/public_html/gre/footer.php on line 1
+[29-Nov-2017 22:38:13 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$dataax' (T_VARIABLE) in /home/fillitcr/public_html/gre/footer.php on line 1
+[29-Nov-2017 22:38:37 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$dataax' (T_VARIABLE) in /home/fillitcr/public_html/gre/footer.php on line 1
+[29-Nov-2017 22:38:44 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$dataax' (T_VARIABLE) in /home/fillitcr/public_html/gre/footer.php on line 1
+[30-Nov-2017 12:29:06 Europe/Sofia] PHP Warning:  require_once(include-global.php): failed to open stream: No such file or directory in /home/fillitcr/public_html/gre/header.php on line 25
+[30-Nov-2017 12:29:06 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required 'include-global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fillitcr/public_html/gre/header.php on line 25
+[30-Nov-2017 12:29:08 Europe/Sofia] PHP Warning:  require_once(include-global.php): failed to open stream: No such file or directory in /home/fillitcr/public_html/gre/header.php on line 25
+[30-Nov-2017 12:29:08 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required 'include-global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fillitcr/public_html/gre/header.php on line 25
+[08-Dec-2017 13:28:15 Europe/Sofia] PHP Notice:  Undefined variable: dataax in /home/fillitcr/public_html/gre/footer.php on line 144
+[08-Dec-2017 13:28:38 Europe/Sofia] PHP Notice:  Undefined variable: dataax in /home/fillitcr/public_html/gre/footer.php on line 144
+[08-Dec-2017 13:30:42 Europe/Sofia] PHP Notice:  Undefined variable: dataax in /home/fillitcr/public_html/gre/footer.php on line 144
+[08-Dec-2017 13:31:15 Europe/Sofia] PHP Notice:  Undefined variable: dataax in /home/fillitcr/public_html/gre/footer.php on line 144
+[08-Dec-2017 13:34:07 Europe/Sofia] PHP Notice:  Undefined variable: dataax in /home/fillitcr/public_html/gre/footer.php on line 144
+[08-Dec-2017 13:34:07 Europe/Sofia] PHP Notice:  Undefined variable: dataax in /home/fillitcr/public_html/gre/footer.php on line 144
+[08-Dec-2017 13:35:28 Europe/Sofia] PHP Notice:  Undefined variable: dataax in /home/fillitcr/public_html/gre/footer.php on line 144
+[08-Dec-2017 13:43:12 Europe/Sofia] PHP Notice:  Undefined variable: dataax in /home/fillitcr/public_html/gre/footer.php on line 144
